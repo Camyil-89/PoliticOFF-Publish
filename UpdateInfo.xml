@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UpdateInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LastVersions>
+    <LastVersionInfo>
+      <CustomType>port</CustomType>
+      <Version>1.0</Version>
+      <Date>2023-08-06T00:00:00</Date>
+      <Type>Custom</Type>
+      <TypeSystem>x86</TypeSystem>
+    </LastVersionInfo>
+  </LastVersions>
+  <Versions>
+    <VersionInfo>
+      <CustomType>port</CustomType>
+      <Type>Custom</Type>
+      <TypeSystem>x86</TypeSystem>
+      <Version>1.0</Version>
+      <Date>2023-08-06T00:00:00</Date>
+      <Files>
+        <FileInfo>
+          <Path>\PoliticOFF.exe</Path>
+          <Url>1.0\PoliticOFF.exe</Url>
+          <Hash>923a2841e7e088e6bea70f73996a024d</Hash>
+          <Size>146576480</Size>
+        </FileInfo>
+      </Files>
+    </VersionInfo>
+  </Versions>
+</UpdateInfo>
