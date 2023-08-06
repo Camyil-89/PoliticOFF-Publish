@@ -1,0 +1,3 @@
+<scripts>
+  <script name="GPUpdate" description="Обновляет политики на конечных устройствах">GPUpdate /Force</script>
+</scripts>
