@@ -1,3 +1,7 @@
-<scripts>
-  <script name="GPUpdate" description="Обновляет политики на конечных устройствах">GPUpdate /Force</script>
-</scripts>
+<Scripts>
+    <PowerShellScript>
+      <Name>GPUpdate</Name>
+      <Script>GPUpdate /Force</Script>
+      <Description>Обновляет политики на конечных устройствах</Description>
+    </PowerShellScript>
+  </Scripts>
