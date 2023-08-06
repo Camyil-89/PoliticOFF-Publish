@@ -4,4 +4,37 @@
       <Script>GPUpdate /Force</Script>
       <Description>Обновляет политики на конечных устройствах</Description>
     </PowerShellScript>
+      <PowerShellScript>
+      <Name>Информация о системе</Name>
+      <Script># Вывод информации о системе
+
+# Имя компьютера
+$computerName = $env:COMPUTERNAME
+Write-Host "Имя компьютера: $computerName"
+
+# Версия операционной системы
+$osVersion = Get-CimInstance Win32_OperatingSystem | Select-Object -ExpandProperty Version
+Write-Host "Версия операционной системы: $osVersion"
+
+# Архитектура процессора
+$cpuArchitecture = (Get-CimInstance Win32_Processor).Caption
+Write-Host "Архитектура процессора: $cpuArchitecture"
+
+# Объем оперативной памяти
+$ram = Get-CimInstance Win32_ComputerSystem | Select-Object -ExpandProperty TotalPhysicalMemory
+$ramInGB = [math]::Round($ram / 1GB, 2)
+Write-Host "Объем оперативной памяти: ${ramInGB} GB"
+
+# Информация о дисках
+$disks = Get-CimInstance Win32_LogicalDisk | Select-Object DeviceID, Size, FreeSpace
+Write-Host "Информация о дисках:"
+$disks | Format-Table -AutoSize | Out-String | Write-Host
+
+# Информация о сетевых адаптерах
+$networkAdapters = Get-CimInstance Win32_NetworkAdapterConfiguration | Where-Object { $_.IPEnabled }
+Write-Host "Информация о сетевых адаптерах:"
+$networkAdapters | Format-Table -Property Description, IPAddress -AutoSize | Out-String | Write-Host
+</Script>
+      <Description>Выводит информацию о системе</Description>
+    </PowerShellScript>
   </ArrayOfPowerShellScript>
