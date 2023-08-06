@@ -18,10 +18,46 @@
       <Date>2023-08-06T00:00:00</Date>
       <Files>
         <FileInfo>
-          <Path>\PoliticOFF.exe</Path>
-          <Url>1.0\PoliticOFF.exe</Url>
-          <Hash>923a2841e7e088e6bea70f73996a024d</Hash>
-          <Size>146576480</Size>
+          <Path>\PoliticOFF-Port.exe.1.splt</Path>
+          <Url>1.0\PoliticOFF-Port.exe.1.splt</Url>
+          <Hash>45916e999af29b4bbd7005c4cb6e6701</Hash>
+          <Size>20971520</Size>
+        </FileInfo>
+        <FileInfo>
+          <Path>\PoliticOFF-Port.exe.2.splt</Path>
+          <Url>1.0\PoliticOFF-Port.exe.2.splt</Url>
+          <Hash>b73da5b5270395fb6870b01a28ef4af5</Hash>
+          <Size>20971520</Size>
+        </FileInfo>
+        <FileInfo>
+          <Path>\PoliticOFF-Port.exe.3.splt</Path>
+          <Url>1.0\PoliticOFF-Port.exe.3.splt</Url>
+          <Hash>c7634803b19a7a3f4cd5fe0266b28442</Hash>
+          <Size>20971520</Size>
+        </FileInfo>
+        <FileInfo>
+          <Path>\PoliticOFF-Port.exe.4.splt</Path>
+          <Url>1.0\PoliticOFF-Port.exe.4.splt</Url>
+          <Hash>406f2102c9be3729ceb6267d38e0ee7a</Hash>
+          <Size>20971520</Size>
+        </FileInfo>
+        <FileInfo>
+          <Path>\PoliticOFF-Port.exe.5.splt</Path>
+          <Url>1.0\PoliticOFF-Port.exe.5.splt</Url>
+          <Hash>c4ac238e9455a58caef706d648f9f333</Hash>
+          <Size>20971520</Size>
+        </FileInfo>
+        <FileInfo>
+          <Path>\PoliticOFF-Port.exe.6.splt</Path>
+          <Url>1.0\PoliticOFF-Port.exe.6.splt</Url>
+          <Hash>82dd24ed926ace4b1ffbf2f9f08cf7ce</Hash>
+          <Size>20971520</Size>
+        </FileInfo>
+        <FileInfo>
+          <Path>\PoliticOFF-Port.exe.7.splt</Path>
+          <Url>1.0\PoliticOFF-Port.exe.7.splt</Url>
+          <Hash>d139bce678bd440d5fbcb0db2c5ea97a</Hash>
+          <Size>20747360</Size>
         </FileInfo>
       </Files>
     </VersionInfo>
