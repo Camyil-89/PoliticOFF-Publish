@@ -1,4 +1,9 @@
 <ArrayOfPowerShellScript xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" >
+     <PowerShellScript>
+      <Name>Ping</Name>
+      <Script>Ping 8.8.8.8</Script>
+      <Description>Проверка подключения к интернету.</Description>
+    </PowerShellScript>
     <PowerShellScript>
       <Name>GPUpdate</Name>
       <Script>GPUpdate /Force</Script>
