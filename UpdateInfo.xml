@@ -2,76 +2,25 @@
 <UpdateInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <LastVersions>
     <LastVersionInfo>
-      <CustomType>port</CustomType>
       <Version>1.0</Version>
-      <Date>2023-08-06T00:00:00</Date>
-      <Type>Custom</Type>
+      <Date>2023-08-15T00:00:00</Date>
+      <Type>Release</Type>
       <TypeSystem>x86</TypeSystem>
     </LastVersionInfo>
     <LastVersionInfo>
+      <CustomType>port</CustomType>
       <Version>1.0</Version>
-      <Date>2023-08-09T00:00:00</Date>
-      <Type>Release</Type>
+      <Date>2023-08-15T00:00:00</Date>
+      <Type>Custom</Type>
       <TypeSystem>x86</TypeSystem>
     </LastVersionInfo>
   </LastVersions>
   <Versions>
     <VersionInfo>
-      <CustomType>port</CustomType>
-      <Type>Custom</Type>
-      <TypeSystem>x86</TypeSystem>
-      <Version>1.0</Version>
-      <Date>2023-08-06T00:00:00</Date>
-      <Files>
-        <FileInfo>
-          <Path>\PoliticOFF-Port.exe.1.splt</Path>
-          <Url>1.0\PoliticOFF-Port.exe.1.splt</Url>
-          <Hash>45916e999af29b4bbd7005c4cb6e6701</Hash>
-          <Size>20971520</Size>
-        </FileInfo>
-        <FileInfo>
-          <Path>\PoliticOFF-Port.exe.2.splt</Path>
-          <Url>1.0\PoliticOFF-Port.exe.2.splt</Url>
-          <Hash>b73da5b5270395fb6870b01a28ef4af5</Hash>
-          <Size>20971520</Size>
-        </FileInfo>
-        <FileInfo>
-          <Path>\PoliticOFF-Port.exe.3.splt</Path>
-          <Url>1.0\PoliticOFF-Port.exe.3.splt</Url>
-          <Hash>c7634803b19a7a3f4cd5fe0266b28442</Hash>
-          <Size>20971520</Size>
-        </FileInfo>
-        <FileInfo>
-          <Path>\PoliticOFF-Port.exe.4.splt</Path>
-          <Url>1.0\PoliticOFF-Port.exe.4.splt</Url>
-          <Hash>406f2102c9be3729ceb6267d38e0ee7a</Hash>
-          <Size>20971520</Size>
-        </FileInfo>
-        <FileInfo>
-          <Path>\PoliticOFF-Port.exe.5.splt</Path>
-          <Url>1.0\PoliticOFF-Port.exe.5.splt</Url>
-          <Hash>c4ac238e9455a58caef706d648f9f333</Hash>
-          <Size>20971520</Size>
-        </FileInfo>
-        <FileInfo>
-          <Path>\PoliticOFF-Port.exe.6.splt</Path>
-          <Url>1.0\PoliticOFF-Port.exe.6.splt</Url>
-          <Hash>82dd24ed926ace4b1ffbf2f9f08cf7ce</Hash>
-          <Size>20971520</Size>
-        </FileInfo>
-        <FileInfo>
-          <Path>\PoliticOFF-Port.exe.7.splt</Path>
-          <Url>1.0\PoliticOFF-Port.exe.7.splt</Url>
-          <Hash>d139bce678bd440d5fbcb0db2c5ea97a</Hash>
-          <Size>20747360</Size>
-        </FileInfo>
-      </Files>
-    </VersionInfo>
-    <VersionInfo>
       <Type>Release</Type>
       <TypeSystem>x86</TypeSystem>
       <Version>1.0</Version>
-      <Date>2023-08-09T00:00:00</Date>
+      <Date>2023-08-15T00:00:00</Date>
       <Files>
         <FileInfo>
           <Path>\Microsoft.Extensions.Configuration.Abstractions.dll</Path>
@@ -268,26 +217,83 @@
         <FileInfo>
           <Path>\PoliticOFF.dll</Path>
           <Url>1.0\PoliticOFF.dll</Url>
-          <Hash>2ce78f9ac6550b2a6a6b22d590e4db24</Hash>
-          <Size>307200</Size>
+          <Hash>2779069f97a1a5a07abd3c5dc61ae479</Hash>
+          <Size>1905664</Size>
         </FileInfo>
         <FileInfo>
           <Path>\PoliticOFF.exe</Path>
           <Url>1.0\PoliticOFF.exe</Url>
-          <Hash>4b115f4a2ffddb3a8738cd1069d766d1</Hash>
-          <Size>157696</Size>
+          <Hash>9fc34927775f2c1d8fa4ea515d6e583c</Hash>
+          <Size>124928</Size>
         </FileInfo>
         <FileInfo>
           <Path>\PoliticOFF.runtimeconfig.json</Path>
           <Url>1.0\PoliticOFF.runtimeconfig.json</Url>
-          <Hash>d720176a229e9d969b40fabeb0baf62e</Hash>
-          <Size>266</Size>
+          <Hash>d94cf983fba9ab1bb8a6cb3ad4a48f50</Hash>
+          <Size>372</Size>
         </FileInfo>
         <FileInfo>
           <Path>\UpdaterAPI.dll</Path>
           <Url>1.0\UpdaterAPI.dll</Url>
           <Hash>133cf30a7e415a534199cca24bb18ca9</Hash>
           <Size>22016</Size>
+        </FileInfo>
+      </Files>
+    </VersionInfo>
+    <VersionInfo>
+      <CustomType>port</CustomType>
+      <Type>Custom</Type>
+      <TypeSystem>x86</TypeSystem>
+      <Version>1.0</Version>
+      <Date>2023-08-15T00:00:00</Date>
+      <Files>
+        <FileInfo>
+          <Path>\PoliticOFF-Port.exe.1.splt</Path>
+          <Url>1.0\PoliticOFF-Port.exe.1.splt</Url>
+          <Hash>4c9752e4c5cedc4459e9a7a07281ba70</Hash>
+          <Size>20971520</Size>
+        </FileInfo>
+        <FileInfo>
+          <Path>\PoliticOFF-Port.exe.2.splt</Path>
+          <Url>1.0\PoliticOFF-Port.exe.2.splt</Url>
+          <Hash>21d98af38767d60e7699ef22794e6d42</Hash>
+          <Size>20971520</Size>
+        </FileInfo>
+        <FileInfo>
+          <Path>\PoliticOFF-Port.exe.3.splt</Path>
+          <Url>1.0\PoliticOFF-Port.exe.3.splt</Url>
+          <Hash>707e49feeaf3dfdb609963c9b1ceec52</Hash>
+          <Size>20971520</Size>
+        </FileInfo>
+        <FileInfo>
+          <Path>\PoliticOFF-Port.exe.4.splt</Path>
+          <Url>1.0\PoliticOFF-Port.exe.4.splt</Url>
+          <Hash>e5053ede12866ad7e0ec04fe1c547a2a</Hash>
+          <Size>20971520</Size>
+        </FileInfo>
+        <FileInfo>
+          <Path>\PoliticOFF-Port.exe.5.splt</Path>
+          <Url>1.0\PoliticOFF-Port.exe.5.splt</Url>
+          <Hash>16abaeafaa2212cdd58ae636913871b9</Hash>
+          <Size>20971520</Size>
+        </FileInfo>
+        <FileInfo>
+          <Path>\PoliticOFF-Port.exe.6.splt</Path>
+          <Url>1.0\PoliticOFF-Port.exe.6.splt</Url>
+          <Hash>2407e1de754bb15b50b7381d19523da1</Hash>
+          <Size>20971520</Size>
+        </FileInfo>
+        <FileInfo>
+          <Path>\PoliticOFF-Port.exe.7.splt</Path>
+          <Url>1.0\PoliticOFF-Port.exe.7.splt</Url>
+          <Hash>68252f40998ed26c1eb2b7fbc10c11cf</Hash>
+          <Size>20971520</Size>
+        </FileInfo>
+        <FileInfo>
+          <Path>\PoliticOFF-Port.exe.8.splt</Path>
+          <Url>1.0\PoliticOFF-Port.exe.8.splt</Url>
+          <Hash>c375e2c1c29040dae38ef893e6e30183</Hash>
+          <Size>1545883</Size>
         </FileInfo>
       </Files>
     </VersionInfo>
