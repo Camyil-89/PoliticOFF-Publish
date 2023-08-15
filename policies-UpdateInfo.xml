@@ -18,92 +18,92 @@
         <FileInfo>
           <Path>\ActiveXInstallService.admx</Path>
           <Url>1.0\ActiveXInstallService.admx</Url>
-          <Hash>8da98067914a630adf461c878ccc961e</Hash>
-          <Size>4717</Size>
+          <Hash>ff2a5860b0109b36af7a9ee965ecb1d3</Hash>
+          <Size>4604</Size>
         </FileInfo>
         <FileInfo>
           <Path>\AddRemovePrograms.admx</Path>
           <Url>1.0\AddRemovePrograms.admx</Url>
-          <Hash>93fe765fea18d3369319b1e2c2198aca</Hash>
-          <Size>4714</Size>
+          <Hash>1e2e3fe6c25676fea3699b7ff1dffaba</Hash>
+          <Size>4651</Size>
         </FileInfo>
         <FileInfo>
           <Path>\AllowBuildPreview.admx</Path>
           <Url>1.0\AllowBuildPreview.admx</Url>
-          <Hash>010b21ad84fd17ef9d1d8a1f72b84d32</Hash>
-          <Size>1165</Size>
+          <Hash>eb90249af100c1e897bc71481e87d3a3</Hash>
+          <Size>1144</Size>
         </FileInfo>
         <FileInfo>
           <Path>\AppCompat.admx</Path>
           <Url>1.0\AppCompat.admx</Url>
-          <Hash>9f090d18f3bdb120480cc63f1bc5e5fd</Hash>
-          <Size>5203</Size>
+          <Hash>bd3a70664118f52b7ced430949e9d7ce</Hash>
+          <Size>5115</Size>
         </FileInfo>
         <FileInfo>
           <Path>\AppHVSI.admx</Path>
           <Url>1.0\AppHVSI.admx</Url>
-          <Hash>a97fa07a19a86528be33c3af5c216459</Hash>
-          <Size>11375</Size>
+          <Hash>e2da6056d19dc83a51b91336405fed2b</Hash>
+          <Size>11118</Size>
         </FileInfo>
         <FileInfo>
           <Path>\AppPrivacy.admx</Path>
           <Url>1.0\AppPrivacy.admx</Url>
-          <Hash>fcc9e539ab311c6f9aaa030d4293d35c</Hash>
-          <Size>30478</Size>
+          <Hash>d2a9ec993620f73ae716ed633b80f24c</Hash>
+          <Size>29817</Size>
         </FileInfo>
         <FileInfo>
           <Path>\appv.admx</Path>
           <Url>1.0\appv.admx</Url>
-          <Hash>9adb3f8a1711017a53ada9bf9033febe</Hash>
-          <Size>34844</Size>
+          <Hash>5d1b2a24df55533dbdd4a1af00f1fa1a</Hash>
+          <Size>34068</Size>
         </FileInfo>
         <FileInfo>
           <Path>\AppxPackageManager.admx</Path>
           <Url>1.0\AppxPackageManager.admx</Url>
-          <Hash>20aa18d51d2ef833396d65758bae2f68</Hash>
-          <Size>4152</Size>
+          <Hash>bd358980e427a4eb449a656ba5022907</Hash>
+          <Size>4076</Size>
         </FileInfo>
         <FileInfo>
           <Path>\AppXRuntime.admx</Path>
           <Url>1.0\AppXRuntime.admx</Url>
-          <Hash>e096226f044e3a3cd52cba399d23588e</Hash>
-          <Size>3975</Size>
+          <Hash>315ffd6b0c6c522897c87e209f75084e</Hash>
+          <Size>3906</Size>
         </FileInfo>
         <FileInfo>
           <Path>\AttachmentManager.admx</Path>
           <Url>1.0\AttachmentManager.admx</Url>
-          <Hash>a7f3bb7ecbcbaeba34ae99a473fc78d4</Hash>
-          <Size>5965</Size>
+          <Hash>84ee0d555202d6eecf2d15276677a1f6</Hash>
+          <Size>5852</Size>
         </FileInfo>
         <FileInfo>
           <Path>\AuditSettings.admx</Path>
           <Url>1.0\AuditSettings.admx</Url>
-          <Hash>4e9264706e4ad119545209f66608c825</Hash>
-          <Size>1337</Size>
+          <Hash>72ca0cb91e346890f834362144a4f403</Hash>
+          <Size>1311</Size>
         </FileInfo>
         <FileInfo>
           <Path>\AutoPlay.admx</Path>
           <Url>1.0\AutoPlay.admx</Url>
-          <Hash>99c0e5f09e95743ea9c0a3a6971f298a</Hash>
-          <Size>3391</Size>
+          <Hash>355ea28d92be95ce8ea00da11a43c6de</Hash>
+          <Size>3319</Size>
         </FileInfo>
         <FileInfo>
           <Path>\AVSValidationGP.admx</Path>
           <Url>1.0\AVSValidationGP.admx</Url>
-          <Hash>443ddaa60bc0dccfd8d9fd0e196f766b</Hash>
-          <Size>2129</Size>
+          <Hash>e2a928e1d6ff257bfbe2a0cbd1a080a1</Hash>
+          <Size>2077</Size>
         </FileInfo>
         <FileInfo>
           <Path>\Biometrics.admx</Path>
           <Url>1.0\Biometrics.admx</Url>
-          <Hash>6374d3b0a8f438154496e9945e3d944a</Hash>
-          <Size>3674</Size>
+          <Hash>bf7a08f22108b04874565c4d26f46f32</Hash>
+          <Size>3608</Size>
         </FileInfo>
         <FileInfo>
           <Path>\Bits.admx</Path>
           <Url>1.0\Bits.admx</Url>
-          <Hash>4139f3f98c51bcd0ed900f0fffcd56c0</Hash>
-          <Size>56679</Size>
+          <Hash>03459150cd71fae9bb19fa3812279681</Hash>
+          <Size>55256</Size>
         </FileInfo>
         <FileInfo>
           <Path>\Camera.admx</Path>
@@ -114,740 +114,740 @@
         <FileInfo>
           <Path>\CEIPEnable.admx</Path>
           <Url>1.0\CEIPEnable.admx</Url>
-          <Hash>3360b68b429776b19a070725365d776e</Hash>
-          <Size>1749</Size>
+          <Hash>6027171a9bae6196749411098b15159b</Hash>
+          <Size>1719</Size>
         </FileInfo>
         <FileInfo>
           <Path>\CipherSuiteOrder.admx</Path>
           <Url>1.0\CipherSuiteOrder.admx</Url>
-          <Hash>81447fb952c391f455e73aea66564413</Hash>
-          <Size>1838</Size>
+          <Hash>299d69e7e067d4be4a423e96b48abbb6</Hash>
+          <Size>1803</Size>
         </FileInfo>
         <FileInfo>
           <Path>\CloudContent.admx</Path>
           <Url>1.0\CloudContent.admx</Url>
-          <Hash>e32952ac63041d56b1087cd39e973e85</Hash>
-          <Size>6291</Size>
+          <Hash>dee09e93fb8fade7459a09a583656deb</Hash>
+          <Size>6175</Size>
         </FileInfo>
         <FileInfo>
           <Path>\COM.admx</Path>
           <Url>1.0\COM.admx</Url>
-          <Hash>9c0a8baad6945dcb12cea12782c999db</Hash>
-          <Size>1329</Size>
+          <Hash>afa3dbc639cf244ad7b81faadb7c5a7f</Hash>
+          <Size>1310</Size>
         </FileInfo>
         <FileInfo>
           <Path>\Conf.admx</Path>
           <Url>1.0\Conf.admx</Url>
-          <Hash>82a127fafce34ace4d2e18757d99d54b</Hash>
-          <Size>13967</Size>
+          <Hash>60977576b36c686f58758772ced1ace6</Hash>
+          <Size>13764</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ControlPanel.admx</Path>
           <Url>1.0\ControlPanel.admx</Url>
-          <Hash>99bb5ac989a4e5feb1713210ae7a0f2b</Hash>
-          <Size>3836</Size>
+          <Hash>db28553e793c45818dfc49d4454f10ab</Hash>
+          <Size>3776</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ControlPanelDisplay.admx</Path>
           <Url>1.0\ControlPanelDisplay.admx</Url>
-          <Hash>a537c377871310b095769839daf9bca1</Hash>
-          <Size>14538</Size>
+          <Hash>ce759abbe000a2641cb748eb053999a2</Hash>
+          <Size>14272</Size>
         </FileInfo>
         <FileInfo>
           <Path>\Cpls.admx</Path>
           <Url>1.0\Cpls.admx</Url>
-          <Hash>d02917e78f1b9741e0324184f2141d70</Hash>
-          <Size>1293</Size>
+          <Hash>88d829837e8d7f5524f81a0f06357e3f</Hash>
+          <Size>1267</Size>
         </FileInfo>
         <FileInfo>
           <Path>\CredentialProviders.admx</Path>
           <Url>1.0\CredentialProviders.admx</Url>
-          <Hash>ba405784babf659dc4ed9694383b0522</Hash>
-          <Size>4005</Size>
+          <Hash>73831eb9cf5fe449ca8baa7f4dabf724</Hash>
+          <Size>3937</Size>
         </FileInfo>
         <FileInfo>
           <Path>\CredSsp.admx</Path>
           <Url>1.0\CredSsp.admx</Url>
-          <Hash>fbe17f56d74e4b7d1f20ce2ee51af94b</Hash>
-          <Size>13864</Size>
+          <Hash>10b8cd3b43ff543eae0917c66608bf99</Hash>
+          <Size>13587</Size>
         </FileInfo>
         <FileInfo>
           <Path>\CredUI.admx</Path>
           <Url>1.0\CredUI.admx</Url>
-          <Hash>5de17effe54a5506d5b9315801ff3df5</Hash>
-          <Size>2640</Size>
+          <Hash>d49b9fad1fb0b951e90966febc663a06</Hash>
+          <Size>2596</Size>
         </FileInfo>
         <FileInfo>
           <Path>\CtrlAltDel.admx</Path>
           <Url>1.0\CtrlAltDel.admx</Url>
-          <Hash>3106cd8d0d9e3054049605023ab99e96</Hash>
-          <Size>2141</Size>
+          <Hash>cf79e9034c90b997c0fe52d48d263b5e</Hash>
+          <Size>2109</Size>
         </FileInfo>
         <FileInfo>
           <Path>\DataCollection.admx</Path>
           <Url>1.0\DataCollection.admx</Url>
-          <Hash>913bee92de54dcc2d20f2b2c3bc7ae76</Hash>
-          <Size>10724</Size>
+          <Hash>8ea0b5bc6847e9145ce09130b7ee402a</Hash>
+          <Size>10527</Size>
         </FileInfo>
         <FileInfo>
           <Path>\DCOM.admx</Path>
           <Url>1.0\DCOM.admx</Url>
-          <Hash>5fbc0fd72d7540517356ad9a2f09cdff</Hash>
-          <Size>2437</Size>
+          <Hash>6a8e50ad2edac8a09ef7b5b68fbfcad9</Hash>
+          <Size>2395</Size>
         </FileInfo>
         <FileInfo>
           <Path>\DeliveryOptimization.admx</Path>
           <Url>1.0\DeliveryOptimization.admx</Url>
-          <Hash>014fde72e2663d02ff154de28f89cc94</Hash>
-          <Size>37366</Size>
+          <Hash>06aef559f163e230c7ae853b54aba39a</Hash>
+          <Size>36240</Size>
         </FileInfo>
         <FileInfo>
           <Path>\Desktop.admx</Path>
           <Url>1.0\Desktop.admx</Url>
-          <Hash>c0a31c6c80dfac55c02d86939ac64921</Hash>
-          <Size>13734</Size>
+          <Hash>5966e4550deef5b5813da1f7bd67c17a</Hash>
+          <Size>13541</Size>
         </FileInfo>
         <FileInfo>
           <Path>\DeviceCompat.admx</Path>
           <Url>1.0\DeviceCompat.admx</Url>
-          <Hash>0e33aab976a95c6ac1816e655fb2f235</Hash>
-          <Size>1778</Size>
+          <Hash>816fd3e102412298727d84b296ca94c8</Hash>
+          <Size>1742</Size>
         </FileInfo>
         <FileInfo>
           <Path>\DeviceCredential.admx</Path>
           <Url>1.0\DeviceCredential.admx</Url>
-          <Hash>86a44c0f33c8f6201b8fedaf85005559</Hash>
-          <Size>1581</Size>
+          <Hash>3bed6d6b5281ea895f1ca96d83f989c4</Hash>
+          <Size>1554</Size>
         </FileInfo>
         <FileInfo>
           <Path>\DeviceGuard.admx</Path>
           <Url>1.0\DeviceGuard.admx</Url>
-          <Hash>6148899f7fc5ba5940e3eec80bd88da9</Hash>
-          <Size>5175</Size>
+          <Hash>5c5a3f9b336aec00fd840ecedb46cad9</Hash>
+          <Size>5028</Size>
         </FileInfo>
         <FileInfo>
           <Path>\DeviceInstallation.admx</Path>
           <Url>1.0\DeviceInstallation.admx</Url>
-          <Hash>55e2eeba102170df0ed1915e14a06b27</Hash>
-          <Size>13015</Size>
+          <Hash>5715562e26d4f20b8a80efc538a078d9</Hash>
+          <Size>12795</Size>
         </FileInfo>
         <FileInfo>
           <Path>\DeviceSetup.admx</Path>
           <Url>1.0\DeviceSetup.admx</Url>
-          <Hash>5fa2802a5338ef90aaa55e5853533170</Hash>
-          <Size>7580</Size>
+          <Hash>f4d457dbdc3e0c74dbc77cccc996b7b8</Hash>
+          <Size>7453</Size>
         </FileInfo>
         <FileInfo>
           <Path>\DFS.admx</Path>
           <Url>1.0\DFS.admx</Url>
-          <Hash>1e14ff4f0123bc8fbaa9bcc5c1ab18e9</Hash>
-          <Size>1093</Size>
+          <Hash>b5abcd8a61777f2a0730d3520084bc30</Hash>
+          <Size>1075</Size>
         </FileInfo>
         <FileInfo>
           <Path>\DigitalLocker.admx</Path>
           <Url>1.0\DigitalLocker.admx</Url>
-          <Hash>b3b1bab12ce011462c6057621c9e510c</Hash>
-          <Size>1992</Size>
+          <Hash>c249c48f3da59d29b09162b324ff6843</Hash>
+          <Size>1956</Size>
         </FileInfo>
         <FileInfo>
           <Path>\DiskDiagnostic.admx</Path>
           <Url>1.0\DiskDiagnostic.admx</Url>
-          <Hash>70e2ddecf31d46426536ad6b5f766681</Hash>
-          <Size>3034</Size>
+          <Hash>dc946874492ffd5d15fd55bed5b16187</Hash>
+          <Size>2978</Size>
         </FileInfo>
         <FileInfo>
           <Path>\DiskNVCache.admx</Path>
           <Url>1.0\DiskNVCache.admx</Url>
-          <Hash>d68af630ca5263c33a5ed24f9b836a06</Hash>
-          <Size>2758</Size>
+          <Hash>09a434707f61b6d2b8d63da4ed6ebcfd</Hash>
+          <Size>2702</Size>
         </FileInfo>
         <FileInfo>
           <Path>\DiskQuota.admx</Path>
           <Url>1.0\DiskQuota.admx</Url>
-          <Hash>e3d825a99381831bfad9bcfb9477f6dd</Hash>
-          <Size>6123</Size>
+          <Hash>2c3891bfb2802f5030e8715a840133b4</Hash>
+          <Size>5991</Size>
         </FileInfo>
         <FileInfo>
           <Path>\Display.admx</Path>
           <Url>1.0\Display.admx</Url>
-          <Hash>e091080a6fd4b2ada988000ba89dbc93</Hash>
-          <Size>3092</Size>
+          <Hash>5f3acdc77051d53690840fc550755454</Hash>
+          <Size>3042</Size>
         </FileInfo>
         <FileInfo>
           <Path>\DistributedLinkTracking.admx</Path>
           <Url>1.0\DistributedLinkTracking.admx</Url>
-          <Hash>41397109eb474f1c8aa197e8936cdac4</Hash>
-          <Size>989</Size>
+          <Hash>5dd8d7057b794b9fc3eacee36b02a584</Hash>
+          <Size>974</Size>
         </FileInfo>
         <FileInfo>
           <Path>\DmaGuard.admx</Path>
           <Url>1.0\DmaGuard.admx</Url>
-          <Hash>2fb863bc2684fcd32d0750f692bbcd35</Hash>
-          <Size>2571</Size>
+          <Hash>8897bc489a41f8808cacb45a83824ab3</Hash>
+          <Size>2498</Size>
         </FileInfo>
         <FileInfo>
           <Path>\DnsClient.admx</Path>
           <Url>1.0\DnsClient.admx</Url>
-          <Hash>bb56015f7f3ebf5c9bf38e0ee2b85245</Hash>
-          <Size>13460</Size>
+          <Hash>573c7c8b38094ec207df4ed279bf4a92</Hash>
+          <Size>13219</Size>
         </FileInfo>
         <FileInfo>
           <Path>\DWM.admx</Path>
           <Url>1.0\DWM.admx</Url>
-          <Hash>d14836fa3c9c54f7ed08f1dcd929c903</Hash>
-          <Size>7149</Size>
+          <Hash>45b5326e91fd268cd8b8215fec1af21a</Hash>
+          <Size>7028</Size>
         </FileInfo>
         <FileInfo>
           <Path>\EAIME.admx</Path>
           <Url>1.0\EAIME.admx</Url>
-          <Hash>4a2421f5839d3a905551d647f6abb6ba</Hash>
-          <Size>7283</Size>
+          <Hash>e02d85c2bd5e4eaebbabf5f1942526d5</Hash>
+          <Size>7150</Size>
         </FileInfo>
         <FileInfo>
           <Path>\EarlyLaunchAM.admx</Path>
           <Url>1.0\EarlyLaunchAM.admx</Url>
-          <Hash>e6c31f2356a76adbb97a811675510ce9</Hash>
-          <Size>1881</Size>
+          <Hash>21cee1b16b73c766ab51fa473f5dd21c</Hash>
+          <Size>1840</Size>
         </FileInfo>
         <FileInfo>
           <Path>\EdgeUI.admx</Path>
           <Url>1.0\EdgeUI.admx</Url>
-          <Hash>383f05a7677e0427543f2f7c7a6e1353</Hash>
-          <Size>4247</Size>
+          <Hash>e645244cc1304e451262bd90626cb4ce</Hash>
+          <Size>4161</Size>
         </FileInfo>
         <FileInfo>
           <Path>\EncryptFilesonMove.admx</Path>
           <Url>1.0\EncryptFilesonMove.admx</Url>
-          <Hash>31942eaef2efdea2a276a86cc6882c6a</Hash>
-          <Size>962</Size>
+          <Hash>e969bcfbadc25e2e31d3b92d387b7af8</Hash>
+          <Size>947</Size>
         </FileInfo>
         <FileInfo>
           <Path>\EnhancedStorage.admx</Path>
           <Url>1.0\EnhancedStorage.admx</Url>
-          <Hash>0e48149713b650babe74efc0b7b15495</Hash>
-          <Size>5113</Size>
+          <Hash>39a610f3998d2c52736ef0cc78a52613</Hash>
+          <Size>5021</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ErrorReporting.admx</Path>
           <Url>1.0\ErrorReporting.admx</Url>
-          <Hash>7524d8067be651579c738d9b80363574</Hash>
-          <Size>26520</Size>
+          <Hash>2e44fc7cf511a842511409f4e9ab890a</Hash>
+          <Size>26002</Size>
         </FileInfo>
         <FileInfo>
           <Path>\EventForwarding.admx</Path>
           <Url>1.0\EventForwarding.admx</Url>
-          <Hash>ef4ad318ea464cde69829a9201d7d526</Hash>
-          <Size>1996</Size>
+          <Hash>3f824358ef37ae8803584f1ca08919b0</Hash>
+          <Size>1960</Size>
         </FileInfo>
         <FileInfo>
           <Path>\EventLog.admx</Path>
           <Url>1.0\EventLog.admx</Url>
-          <Hash>cd25aa21039f5243bd7f329050fdd05b</Hash>
-          <Size>14601</Size>
+          <Hash>cd0e3c335f3753169c217c27c87a089e</Hash>
+          <Size>14371</Size>
         </FileInfo>
         <FileInfo>
           <Path>\EventLogging.admx</Path>
           <Url>1.0\EventLogging.admx</Url>
-          <Hash>2d34eea7ce4aacb9c5b225585dfa09ff</Hash>
-          <Size>1708</Size>
+          <Hash>e499fc243822270b87418e61ec23e8f2</Hash>
+          <Size>1674</Size>
         </FileInfo>
         <FileInfo>
           <Path>\EventViewer.admx</Path>
           <Url>1.0\EventViewer.admx</Url>
-          <Hash>cc37e29f7f6537a88c0cb06178277445</Hash>
-          <Size>2528</Size>
+          <Hash>74b01e69d6636e9fca541877fb047da8</Hash>
+          <Size>2491</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ExploitGuard.admx</Path>
           <Url>1.0\ExploitGuard.admx</Url>
-          <Hash>72b993a8f96dcfea68c48acd05673440</Hash>
-          <Size>1553</Size>
+          <Hash>b88212fa5c833ac5cbf54bf0b7e31c65</Hash>
+          <Size>1527</Size>
         </FileInfo>
         <FileInfo>
           <Path>\Explorer.admx</Path>
           <Url>1.0\Explorer.admx</Url>
-          <Hash>881e68c4e562ddb015bc0f843348782b</Hash>
-          <Size>4368</Size>
+          <Hash>04efe7974dc6fa0f43d8aaf2779cba71</Hash>
+          <Size>4291</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ExternalBoot.admx</Path>
           <Url>1.0\ExternalBoot.admx</Url>
-          <Hash>ada14c9e12ebb088628c86ada31184e6</Hash>
-          <Size>2651</Size>
+          <Hash>5b19239d3bd92e23e9d278ad93f4cc49</Hash>
+          <Size>2605</Size>
         </FileInfo>
         <FileInfo>
           <Path>\FeedbackNotifications.admx</Path>
           <Url>1.0\FeedbackNotifications.admx</Url>
-          <Hash>8b17f2c22181b684dfb6a49095078357</Hash>
-          <Size>1284</Size>
+          <Hash>22785473cad62e89d8abb33a72abf21e</Hash>
+          <Size>1262</Size>
         </FileInfo>
         <FileInfo>
           <Path>\FileHistory.admx</Path>
           <Url>1.0\FileHistory.admx</Url>
-          <Hash>9194c309ee2f838c0ca19b46a964011f</Hash>
-          <Size>1287</Size>
+          <Hash>aa68392fe2078885b0161f2393f91cd3</Hash>
+          <Size>1261</Size>
         </FileInfo>
         <FileInfo>
           <Path>\FileRecovery.admx</Path>
           <Url>1.0\FileRecovery.admx</Url>
-          <Hash>5d8bf7a08648c2fef2fb9f64d38e00e4</Hash>
-          <Size>2141</Size>
+          <Hash>a5a69d761c30a4df6916b7c2274db205</Hash>
+          <Size>2096</Size>
         </FileInfo>
         <FileInfo>
           <Path>\FileRevocation.admx</Path>
           <Url>1.0\FileRevocation.admx</Url>
-          <Hash>5b635e854b42397c1a31978b0aa68dc6</Hash>
-          <Size>1803</Size>
+          <Hash>c7ab6e4bfc8c899f91b1f89e0b165710</Hash>
+          <Size>1752</Size>
         </FileInfo>
         <FileInfo>
           <Path>\FileServerVSSProvider.admx</Path>
           <Url>1.0\FileServerVSSProvider.admx</Url>
-          <Hash>58ea89236262b1f44b846d0d20561e78</Hash>
-          <Size>1443</Size>
+          <Hash>3921321c7e6077d71ee7d33fe22e522e</Hash>
+          <Size>1415</Size>
         </FileInfo>
         <FileInfo>
           <Path>\FileSys.admx</Path>
           <Url>1.0\FileSys.admx</Url>
-          <Hash>eadbaa27d2256da09b23752307ef5f9e</Hash>
-          <Size>7382</Size>
+          <Hash>97688233c54c9d00c48935807b9eb000</Hash>
+          <Size>7196</Size>
         </FileInfo>
         <FileInfo>
           <Path>\FindMy.admx</Path>
           <Url>1.0\FindMy.admx</Url>
-          <Hash>8645e9bbea94789e1ca5e8795506a92b</Hash>
-          <Size>1493</Size>
+          <Hash>c858496ffc650d45ab59ca4961d2fd01</Hash>
+          <Size>1460</Size>
         </FileInfo>
         <FileInfo>
           <Path>\FolderRedirection.admx</Path>
           <Url>1.0\FolderRedirection.admx</Url>
-          <Hash>fee1202da6d76542a53501afae84bb0f</Hash>
-          <Size>6700</Size>
+          <Hash>45c7c1732f2749c315aa889ba90f755b</Hash>
+          <Size>6605</Size>
         </FileInfo>
         <FileInfo>
           <Path>\FramePanes.admx</Path>
           <Url>1.0\FramePanes.admx</Url>
-          <Hash>dc3d720abd1e34d50d05610f538af3c3</Hash>
-          <Size>2078</Size>
+          <Hash>4aa3f5eedbfa6e34b86b6588114e5f88</Hash>
+          <Size>2039</Size>
         </FileInfo>
         <FileInfo>
           <Path>\fthsvc.admx</Path>
           <Url>1.0\fthsvc.admx</Url>
-          <Hash>2eddc5cf7a135d31d06c4940025d7d31</Hash>
-          <Size>2229</Size>
+          <Hash>028e3a9c108944d5b7c3857a081f77fa</Hash>
+          <Size>2185</Size>
         </FileInfo>
         <FileInfo>
           <Path>\GameDVR.admx</Path>
           <Url>1.0\GameDVR.admx</Url>
-          <Hash>247bca775036d75502937cccd0477090</Hash>
-          <Size>1256</Size>
+          <Hash>8af25ff3c18cb04462317003eae9a758</Hash>
+          <Size>1232</Size>
         </FileInfo>
         <FileInfo>
           <Path>\Globalization.admx</Path>
           <Url>1.0\Globalization.admx</Url>
-          <Hash>0957a5b08a32df846293a2bf2377f31b</Hash>
-          <Size>33378</Size>
+          <Hash>ba3970b8eb5d5a146cd689eff3bdd468</Hash>
+          <Size>32524</Size>
         </FileInfo>
         <FileInfo>
           <Path>\GroupPolicy-Server.admx</Path>
           <Url>1.0\GroupPolicy-Server.admx</Url>
-          <Hash>43b50ed71bf67b903327f3c019445704</Hash>
-          <Size>1485</Size>
+          <Hash>be009776076ff0f86f91097a2f08d43d</Hash>
+          <Size>1457</Size>
         </FileInfo>
         <FileInfo>
           <Path>\GroupPolicy.admx</Path>
           <Url>1.0\GroupPolicy.admx</Url>
-          <Hash>519c299ec87739fd3458c90df1ddb0b0</Hash>
-          <Size>32930</Size>
+          <Hash>9ed87297d57f081a87ba37c542f037d7</Hash>
+          <Size>32265</Size>
         </FileInfo>
         <FileInfo>
           <Path>\GroupPolicyPreferences.admx</Path>
           <Url>1.0\GroupPolicyPreferences.admx</Url>
-          <Hash>57b9f848364044652b329a3b9dbb0fa6</Hash>
-          <Size>100283</Size>
+          <Hash>3d0ada48fa85861e825c985a3fa46c80</Hash>
+          <Size>97933</Size>
         </FileInfo>
         <FileInfo>
           <Path>\Handwriting.admx</Path>
           <Url>1.0\Handwriting.admx</Url>
-          <Hash>a640ea223a7f7feedd149a31acced819</Hash>
-          <Size>1302</Size>
+          <Hash>85145a45e2049b1000dd0f190999adb2</Hash>
+          <Size>1276</Size>
         </FileInfo>
         <FileInfo>
           <Path>\Help.admx</Path>
           <Url>1.0\Help.admx</Url>
-          <Hash>d26cea9b9ee5ec07163a6ab8b8aa9fad</Hash>
-          <Size>2647</Size>
+          <Hash>7346a4b233f763353eee020a6d25c05b</Hash>
+          <Size>2605</Size>
         </FileInfo>
         <FileInfo>
           <Path>\HelpAndSupport.admx</Path>
           <Url>1.0\HelpAndSupport.admx</Url>
-          <Hash>2cdac093621f00d645202eeb95fdf2c4</Hash>
-          <Size>2830</Size>
+          <Hash>a6b239cdc55ac4c166571baca757f3ee</Hash>
+          <Size>2774</Size>
         </FileInfo>
         <FileInfo>
           <Path>\hotspotauth.admx</Path>
           <Url>1.0\hotspotauth.admx</Url>
-          <Hash>eceeb6a783690eeb9927ec5173a73306</Hash>
-          <Size>1316</Size>
+          <Hash>5a9e9c10596ba53ea31f36bcc362fab5</Hash>
+          <Size>1290</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ICM.admx</Path>
           <Url>1.0\ICM.admx</Url>
-          <Hash>847478b9e10ee2d12ce1fb06b9636a80</Hash>
-          <Size>35802</Size>
+          <Hash>77d09ecd28da325f770d8e487aaebebb</Hash>
+          <Size>35020</Size>
         </FileInfo>
         <FileInfo>
           <Path>\IIS.admx</Path>
           <Url>1.0\IIS.admx</Url>
-          <Hash>ed37c1ae3479b6581e2827cbbd590e00</Hash>
-          <Size>1243</Size>
+          <Hash>88012426f86217269c98847987119ccd</Hash>
+          <Size>1217</Size>
         </FileInfo>
         <FileInfo>
           <Path>\inetres.admx</Path>
           <Url>1.0\inetres.admx</Url>
-          <Hash>33ee88848fcbc7175e8ceefcd8d6d27b</Hash>
-          <Size>1707591</Size>
+          <Hash>2fc3fdbb34b0b6ef5799962673148b1f</Hash>
+          <Size>1672085</Size>
         </FileInfo>
         <FileInfo>
           <Path>\InkWatson.admx</Path>
           <Url>1.0\InkWatson.admx</Url>
-          <Hash>52ea2a438c50feca9c6ebb75fd0ef7e4</Hash>
-          <Size>1787</Size>
+          <Hash>4fec0f346a2417284c4b143d585e47a1</Hash>
+          <Size>1756</Size>
         </FileInfo>
         <FileInfo>
           <Path>\iSCSI.admx</Path>
           <Url>1.0\iSCSI.admx</Url>
-          <Hash>9eef494a43c860a31d2887caf115b705</Hash>
-          <Size>6868</Size>
+          <Hash>e0c895c7c68d14ccbf6b3b0992527058</Hash>
+          <Size>6743</Size>
         </FileInfo>
         <FileInfo>
           <Path>\kdc.admx</Path>
           <Url>1.0\kdc.admx</Url>
-          <Hash>9042afa4adf2ad5daafacc5e3c2963f3</Hash>
-          <Size>5639</Size>
+          <Hash>ee8dc7dce40628597efb5ec07fdb6010</Hash>
+          <Size>5519</Size>
         </FileInfo>
         <FileInfo>
           <Path>\Kerberos.admx</Path>
           <Url>1.0\Kerberos.admx</Url>
-          <Hash>8c6cc7042c59eaa803753dae08c0ce0a</Hash>
-          <Size>9652</Size>
+          <Hash>03550a5d22767dbe050f3d57816f621d</Hash>
+          <Size>9476</Size>
         </FileInfo>
         <FileInfo>
           <Path>\LanmanServer.admx</Path>
           <Url>1.0\LanmanServer.admx</Url>
-          <Hash>b7571ad2f596154530631bfd30341d82</Hash>
-          <Size>4248</Size>
+          <Hash>f2d22d2364862b5d74dfac6bfa1cee95</Hash>
+          <Size>4138</Size>
         </FileInfo>
         <FileInfo>
           <Path>\LanmanWorkstation.admx</Path>
           <Url>1.0\LanmanWorkstation.admx</Url>
-          <Hash>d1a656cc178aa0731c3a9aaa2b10c3c6</Hash>
-          <Size>3322</Size>
+          <Hash>3e13db785ce74b90b32d0a83df9b2b95</Hash>
+          <Size>3239</Size>
         </FileInfo>
         <FileInfo>
           <Path>\LeakDiagnostic.admx</Path>
           <Url>1.0\LeakDiagnostic.admx</Url>
-          <Hash>2de3721f7b9126b6e9d8904714e1c3d7</Hash>
-          <Size>2205</Size>
+          <Hash>9cb2447a18f5ebe87bdf99f5d680dadc</Hash>
+          <Size>2161</Size>
         </FileInfo>
         <FileInfo>
           <Path>\LinkLayerTopologyDiscovery.admx</Path>
           <Url>1.0\LinkLayerTopologyDiscovery.admx</Url>
-          <Hash>730dc36ec0fe1bde4dcb435ce2fd99a0</Hash>
-          <Size>3681</Size>
+          <Hash>24ce6a45e1fc08d732694607f13cc446</Hash>
+          <Size>3593</Size>
         </FileInfo>
         <FileInfo>
           <Path>\LocationProviderAdm.admx</Path>
           <Url>1.0\LocationProviderAdm.admx</Url>
-          <Hash>5009cfda3f613b270086dd8897cf85ab</Hash>
-          <Size>1502</Size>
+          <Hash>dabdd747be616a69fa0e29e13a6f814b</Hash>
+          <Size>1475</Size>
         </FileInfo>
         <FileInfo>
           <Path>\Logon.admx</Path>
           <Url>1.0\Logon.admx</Url>
-          <Hash>45245aa2f04296e14b837eebab9f8473</Hash>
-          <Size>10816</Size>
+          <Hash>f76d21bf0b88ca79b9abff5e456265a2</Hash>
+          <Size>10640</Size>
         </FileInfo>
         <FileInfo>
           <Path>\MDM.admx</Path>
           <Url>1.0\MDM.admx</Url>
-          <Hash>347072e20cda519b000884ec79cc5a2c</Hash>
-          <Size>2342</Size>
+          <Hash>ce167b67f4b3ea7741873554e0ccb3a3</Hash>
+          <Size>2290</Size>
         </FileInfo>
         <FileInfo>
           <Path>\messaging.admx</Path>
           <Url>1.0\messaging.admx</Url>
-          <Hash>61ecfd8a9af0489d5525a459e1bc7250</Hash>
-          <Size>1298</Size>
+          <Hash>d03d306a853b3b66df457105b529c479</Hash>
+          <Size>1272</Size>
         </FileInfo>
         <FileInfo>
           <Path>\MicrosoftEdge.admx</Path>
           <Url>1.0\MicrosoftEdge.admx</Url>
-          <Hash>f1b1193477897a149b4061f44ea626dc</Hash>
-          <Size>41069</Size>
+          <Hash>99781c78f23a2f9edb60ee5a2ca6402d</Hash>
+          <Size>40106</Size>
         </FileInfo>
         <FileInfo>
           <Path>\MMC.admx</Path>
           <Url>1.0\MMC.admx</Url>
-          <Hash>2998b43abf5097ce44ea8d328d13235a</Hash>
-          <Size>3580</Size>
+          <Hash>10376d74c02233caf799a9d16582379e</Hash>
+          <Size>3508</Size>
         </FileInfo>
         <FileInfo>
           <Path>\MMCSnapins.admx</Path>
           <Url>1.0\MMCSnapins.admx</Url>
-          <Hash>263179895b280a7b97f57aec4d86e045</Hash>
-          <Size>56928</Size>
+          <Hash>a3724965f05738d987f622dfc1299bb2</Hash>
+          <Size>55817</Size>
         </FileInfo>
         <FileInfo>
           <Path>\MMCSnapIns2.admx</Path>
           <Url>1.0\MMCSnapIns2.admx</Url>
-          <Hash>cff77d02b53e4f1e29b3a0369cd44aaa</Hash>
-          <Size>6994</Size>
+          <Hash>91c5f0751b028858e88f33209f5f2e0e</Hash>
+          <Size>6870</Size>
         </FileInfo>
         <FileInfo>
           <Path>\MobilePCMobilityCenter.admx</Path>
           <Url>1.0\MobilePCMobilityCenter.admx</Url>
-          <Hash>dc74c784089ae0e4184f3edae887c660</Hash>
-          <Size>1890</Size>
+          <Hash>ab80a37c7b290614cd7bf0f67cf2ce89</Hash>
+          <Size>1854</Size>
         </FileInfo>
         <FileInfo>
           <Path>\MobilePCPresentationSettings.admx</Path>
           <Url>1.0\MobilePCPresentationSettings.admx</Url>
-          <Hash>40c1f963bd2b08734f82239d7542f570</Hash>
-          <Size>1986</Size>
+          <Hash>0b440e20e546ba0dc131d45b19677a11</Hash>
+          <Size>1950</Size>
         </FileInfo>
         <FileInfo>
           <Path>\MSAPolicy.admx</Path>
           <Url>1.0\MSAPolicy.admx</Url>
-          <Hash>ef3140023b18c85115ef4183b7cec113</Hash>
-          <Size>1440</Size>
+          <Hash>00b26d6e90b25697f7f6f18cf986abdc</Hash>
+          <Size>1413</Size>
         </FileInfo>
         <FileInfo>
           <Path>\msched.admx</Path>
           <Url>1.0\msched.admx</Url>
-          <Hash>2ea51a79280544abfb67c285c38a6254</Hash>
-          <Size>2491</Size>
+          <Hash>fd3b6b97c26248a33fcee6f816b47ac7</Hash>
+          <Size>2444</Size>
         </FileInfo>
         <FileInfo>
           <Path>\MSDT.admx</Path>
           <Url>1.0\MSDT.admx</Url>
-          <Hash>b66e6c5dd260997c461ccf47b0464a83</Hash>
-          <Size>5611</Size>
+          <Hash>dd7713968915d6e0d4e1180f01629c7e</Hash>
+          <Size>5497</Size>
         </FileInfo>
         <FileInfo>
           <Path>\Msi-FileRecovery.admx</Path>
           <Url>1.0\Msi-FileRecovery.admx</Url>
-          <Hash>c85e4c3146ba0e4cbaee62125a5c954d</Hash>
-          <Size>2147</Size>
+          <Hash>37a565f09e0e8e9498aa9b675e01eb3c</Hash>
+          <Size>2102</Size>
         </FileInfo>
         <FileInfo>
           <Path>\MSI.admx</Path>
           <Url>1.0\MSI.admx</Url>
-          <Hash>b4ce77d25da08382b3374b3128badf2f</Hash>
-          <Size>16629</Size>
+          <Hash>89b272fde99f4d9d2bfcd9650ba85424</Hash>
+          <Size>16281</Size>
         </FileInfo>
         <FileInfo>
           <Path>\nca.admx</Path>
           <Url>1.0\nca.admx</Url>
-          <Hash>1b66bd19c277cdaba812478de7c0bab1</Hash>
-          <Size>5215</Size>
+          <Hash>f17bbe633f4d70e48b608a80fbe0de93</Hash>
+          <Size>5125</Size>
         </FileInfo>
         <FileInfo>
           <Path>\NCSI.admx</Path>
           <Url>1.0\NCSI.admx</Url>
-          <Hash>24446944664dbcd695d30b93c503f169</Hash>
-          <Size>5047</Size>
+          <Hash>faaeb8fd1bb9e834beee46b81c665edd</Hash>
+          <Size>4968</Size>
         </FileInfo>
         <FileInfo>
           <Path>\Netlogon.admx</Path>
           <Url>1.0\Netlogon.admx</Url>
-          <Hash>3c0b4627753aae0c85e12929450f6444</Hash>
-          <Size>20036</Size>
+          <Hash>16a16b07c22c61734bab5755db19e550</Hash>
+          <Size>19743</Size>
         </FileInfo>
         <FileInfo>
           <Path>\NetworkConnections.admx</Path>
           <Url>1.0\NetworkConnections.admx</Url>
-          <Hash>47deff766d6d46faaa97be484ef9f84f</Hash>
-          <Size>17024</Size>
+          <Hash>6089f95bf2ff0d6b76878985f3ce5dd9</Hash>
+          <Size>16696</Size>
         </FileInfo>
         <FileInfo>
           <Path>\NetworkIsolation.admx</Path>
           <Url>1.0\NetworkIsolation.admx</Url>
-          <Hash>9d3a13ef243b9195b9e9ac62c9f20d5f</Hash>
-          <Size>5431</Size>
+          <Hash>1219e108a5c2ae3d2fd05cb962d2cf39</Hash>
+          <Size>5332</Size>
         </FileInfo>
         <FileInfo>
           <Path>\NetworkProvider.admx</Path>
           <Url>1.0\NetworkProvider.admx</Url>
-          <Hash>0152c7999157036ced937ff3ba843a00</Hash>
-          <Size>1472</Size>
+          <Hash>bb7178ff017131009eb3f8b8fc019eb5</Hash>
+          <Size>1444</Size>
         </FileInfo>
         <FileInfo>
           <Path>\OfflineFiles.admx</Path>
           <Url>1.0\OfflineFiles.admx</Url>
-          <Hash>a60a4a9db9a90c9fc6c82d30276b0056</Hash>
-          <Size>27029</Size>
+          <Hash>bec4046b8d8c250170a5224fb64662a1</Hash>
+          <Size>26600</Size>
         </FileInfo>
         <FileInfo>
           <Path>\OOBE.admx</Path>
           <Url>1.0\OOBE.admx</Url>
-          <Hash>575d27ec975ded850f0bd0586d3f068b</Hash>
-          <Size>1393</Size>
+          <Hash>86f70c8f1e24450e8be29e8963aadbf5</Hash>
+          <Size>1362</Size>
         </FileInfo>
         <FileInfo>
           <Path>\OSPolicy.admx</Path>
           <Url>1.0\OSPolicy.admx</Url>
-          <Hash>2e0b4212c9f7b39b5998fae4a176fdb9</Hash>
-          <Size>3349</Size>
+          <Hash>5e22e44a2fabecbd41c7b465f8254c61</Hash>
+          <Size>3283</Size>
         </FileInfo>
         <FileInfo>
           <Path>\P2P-pnrp.admx</Path>
           <Url>1.0\P2P-pnrp.admx</Url>
-          <Hash>c9f98b5a7d4006c04787a10a6bd2a009</Hash>
-          <Size>8498</Size>
+          <Hash>642ebecb55598767f40127b010be9cc5</Hash>
+          <Size>8344</Size>
         </FileInfo>
         <FileInfo>
           <Path>\Passport.admx</Path>
           <Url>1.0\Passport.admx</Url>
-          <Hash>52040b2c9f95c8bac0c90c08d90ab6b2</Hash>
-          <Size>13715</Size>
+          <Hash>52d45521e198faccc2860cb3f7648e83</Hash>
+          <Size>13479</Size>
         </FileInfo>
         <FileInfo>
           <Path>\pca.admx</Path>
           <Url>1.0\pca.admx</Url>
-          <Hash>0abfe09e86cbaf074c2a6efc603720eb</Hash>
-          <Size>9678</Size>
+          <Hash>0a060617dff202b7468aadc5648416ca</Hash>
+          <Size>9471</Size>
         </FileInfo>
         <FileInfo>
           <Path>\PeerToPeerCaching.admx</Path>
           <Url>1.0\PeerToPeerCaching.admx</Url>
-          <Hash>383b26416096e4ddeb0d5911b233c7e7</Hash>
-          <Size>7194</Size>
+          <Hash>593c1195c1333513fa7248f9d4a941d1</Hash>
+          <Size>7028</Size>
         </FileInfo>
         <FileInfo>
           <Path>\PenTraining.admx</Path>
           <Url>1.0\PenTraining.admx</Url>
-          <Hash>ee9f671fd7817caf529dfda03d060f76</Hash>
-          <Size>1773</Size>
+          <Hash>7b59ad23faeecd57aa2a0da5c42a3fd8</Hash>
+          <Size>1737</Size>
         </FileInfo>
         <FileInfo>
           <Path>\PerformanceDiagnostics.admx</Path>
           <Url>1.0\PerformanceDiagnostics.admx</Url>
-          <Hash>b0603d67d66d7df907b9c2aacf31a14b</Hash>
-          <Size>7555</Size>
+          <Hash>1ec5bcaa0fbdf8a256ab4096bd1a2eb5</Hash>
+          <Size>7396</Size>
         </FileInfo>
         <FileInfo>
           <Path>\PerformancePerftrack.admx</Path>
           <Url>1.0\PerformancePerftrack.admx</Url>
-          <Hash>ac09352764410a58c8d7aaa7e9e8023f</Hash>
-          <Size>1939</Size>
+          <Hash>0300824431e4284d9c0fe7e884479a43</Hash>
+          <Size>1899</Size>
         </FileInfo>
         <FileInfo>
           <Path>\Power.admx</Path>
           <Url>1.0\Power.admx</Url>
-          <Hash>478559c15efeb924cb2778aa68a526ea</Hash>
-          <Size>39102</Size>
+          <Hash>3f431347e57dafcb541959bb239d2195</Hash>
+          <Size>38424</Size>
         </FileInfo>
         <FileInfo>
           <Path>\PowerShellExecutionPolicy.admx</Path>
           <Url>1.0\PowerShellExecutionPolicy.admx</Url>
-          <Hash>cf3a6940f87d0a1b53a99e3e205066c9</Hash>
-          <Size>4984</Size>
+          <Hash>660edae21a397786cf31bbeaa1d9eca3</Hash>
+          <Size>4883</Size>
         </FileInfo>
         <FileInfo>
           <Path>\PreviousVersions.admx</Path>
           <Url>1.0\PreviousVersions.admx</Url>
-          <Hash>8de392483f39339823ecde9eeb7acdd6</Hash>
-          <Size>7371</Size>
+          <Hash>cb24abf4514222931491bfa44a186ae4</Hash>
+          <Size>7223</Size>
         </FileInfo>
         <FileInfo>
           <Path>\Printing.admx</Path>
           <Url>1.0\Printing.admx</Url>
-          <Hash>4f8dca2fce909ab49655c1a86f899e86</Hash>
-          <Size>25224</Size>
+          <Hash>e669dbf0210d9910c6cd29789c165b1a</Hash>
+          <Size>24481</Size>
         </FileInfo>
         <FileInfo>
           <Path>\Printing2.admx</Path>
           <Url>1.0\Printing2.admx</Url>
-          <Hash>c290063c2d3aaef142e6f74db1b879b9</Hash>
-          <Size>13329</Size>
+          <Hash>4110d3417a62872988c4404c2b8abfdd</Hash>
+          <Size>12916</Size>
         </FileInfo>
         <FileInfo>
           <Path>\Programs.admx</Path>
           <Url>1.0\Programs.admx</Url>
-          <Hash>2e7a9978135b21dff9d1fd14521f3763</Hash>
-          <Size>3243</Size>
+          <Hash>7be03f6b2e62024e7e715c25e05ff3e2</Hash>
+          <Size>3199</Size>
         </FileInfo>
         <FileInfo>
           <Path>\PushToInstall.admx</Path>
           <Url>1.0\PushToInstall.admx</Url>
-          <Hash>e62d2ba58ffd5049b4d714d9b056396e</Hash>
-          <Size>1320</Size>
+          <Hash>188ffcb3e43895492bba7cfac28b48bf</Hash>
+          <Size>1288</Size>
         </FileInfo>
         <FileInfo>
           <Path>\QOS.admx</Path>
           <Url>1.0\QOS.admx</Url>
-          <Hash>347add2a50978a884f15a2049082e1c4</Hash>
-          <Size>13257</Size>
+          <Hash>224a3162b57f10cf586484d2ef94b849</Hash>
+          <Size>13099</Size>
         </FileInfo>
         <FileInfo>
           <Path>\RacWmiProv.admx</Path>
           <Url>1.0\RacWmiProv.admx</Url>
-          <Hash>5d598b72edf6bdba3ec0f233ec2c71c9</Hash>
-          <Size>1273</Size>
+          <Hash>94b37a9edf1a8d9d76c18755b85d5715</Hash>
+          <Size>1247</Size>
         </FileInfo>
         <FileInfo>
           <Path>\Radar.admx</Path>
           <Url>1.0\Radar.admx</Url>
-          <Hash>e03cf703afc532613bf361b5aef3b17b</Hash>
-          <Size>1972</Size>
+          <Hash>5db841153be4a6d2b41c96b957d7c407</Hash>
+          <Size>1932</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ReAgent.admx</Path>
           <Url>1.0\ReAgent.admx</Url>
-          <Hash>0fff459097841b7c8a7c1092492935d3</Hash>
-          <Size>1240</Size>
+          <Hash>d191a557d916caf140073759009d0fb7</Hash>
+          <Size>1214</Size>
         </FileInfo>
         <FileInfo>
           <Path>\Reliability.admx</Path>
           <Url>1.0\Reliability.admx</Url>
-          <Hash>4581f6c150efaffd6930609dc30671a0</Hash>
-          <Size>3722</Size>
+          <Hash>f961e1a6f648f5233c7254986c6bbbb5</Hash>
+          <Size>3648</Size>
         </FileInfo>
         <FileInfo>
           <Path>\RemoteAssistance.admx</Path>
           <Url>1.0\RemoteAssistance.admx</Url>
-          <Hash>cebdb3e4801fc67fcbcb60867f6f784f</Hash>
-          <Size>7150</Size>
+          <Hash>6306f4ab35db6d4a335e6eac60aa5197</Hash>
+          <Size>6987</Size>
         </FileInfo>
         <FileInfo>
           <Path>\RemovableStorage.admx</Path>
           <Url>1.0\RemovableStorage.admx</Url>
-          <Hash>aa180b12431d0d75ba6af97f7f43694f</Hash>
-          <Size>23268</Size>
+          <Hash>9eb7fe05d30117849d9548dd6c8e50a0</Hash>
+          <Size>22848</Size>
         </FileInfo>
         <FileInfo>
           <Path>\RPC.admx</Path>
           <Url>1.0\RPC.admx</Url>
-          <Hash>24d24abdcf3cd77c817b29ab8d6cda98</Hash>
-          <Size>6292</Size>
+          <Hash>3a3473b31efeaa219c221b43a5888a12</Hash>
+          <Size>6156</Size>
         </FileInfo>
         <FileInfo>
           <Path>\Scripts.admx</Path>
           <Url>1.0\Scripts.admx</Url>
-          <Hash>dd51dd947d4bd1b4d419718fb58ba451</Hash>
-          <Size>6991</Size>
+          <Hash>ac91075fef3ce3be4d6661fe0b96b972</Hash>
+          <Size>6864</Size>
         </FileInfo>
         <FileInfo>
           <Path>\sdiageng.admx</Path>
           <Url>1.0\sdiageng.admx</Url>
-          <Hash>8bce4667d0c7ef7b8c2a67ad0c7cb0fb</Hash>
-          <Size>2519</Size>
+          <Hash>f38670c322d78fb7b66f91c96b2a4008</Hash>
+          <Size>2473</Size>
         </FileInfo>
         <FileInfo>
           <Path>\sdiagschd.admx</Path>
           <Url>1.0\sdiagschd.admx</Url>
-          <Hash>eb1dc450885636f70987554cce438740</Hash>
-          <Size>2027</Size>
+          <Hash>88e805dd6f153438389701821d6ca804</Hash>
+          <Size>1987</Size>
         </FileInfo>
         <FileInfo>
           <Path>\Search.admx</Path>
@@ -858,530 +858,530 @@
         <FileInfo>
           <Path>\Securitycenter.admx</Path>
           <Url>1.0\Securitycenter.admx</Url>
-          <Hash>621cd7b462cbccf7ff12712b23d8d1b5</Hash>
-          <Size>1370</Size>
+          <Hash>8ec435c93ab9072dd24569e3af10f059</Hash>
+          <Size>1344</Size>
         </FileInfo>
         <FileInfo>
           <Path>\Sensors.admx</Path>
           <Url>1.0\Sensors.admx</Url>
-          <Hash>45a19db51a4af8e6fa2d5b09c9219910</Hash>
-          <Size>3888</Size>
+          <Hash>06c3790749259d18835ff2651b66e886</Hash>
+          <Size>3812</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ServerManager.admx</Path>
           <Url>1.0\ServerManager.admx</Url>
-          <Hash>a8fe70d5d9e444fd04b031cc15d0f1fe</Hash>
-          <Size>3813</Size>
+          <Hash>397f2cc2a2c17a1e1755d4a4cc40daa1</Hash>
+          <Size>3741</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ServiceControlManager.admx</Path>
           <Url>1.0\ServiceControlManager.admx</Url>
-          <Hash>c993fc8fae622cb0ad78e8eece006adb</Hash>
-          <Size>1795</Size>
+          <Hash>0f8a436f44444e1a8df3c669e2ad5d0e</Hash>
+          <Size>1758</Size>
         </FileInfo>
         <FileInfo>
           <Path>\Servicing.admx</Path>
           <Url>1.0\Servicing.admx</Url>
-          <Hash>984fe19d47edae7d758158db7ea84e6b</Hash>
-          <Size>1962</Size>
+          <Hash>6101daf55f6ca694e8a7699aa34f4406</Hash>
+          <Size>1914</Size>
         </FileInfo>
         <FileInfo>
           <Path>\SettingSync.admx</Path>
           <Url>1.0\SettingSync.admx</Url>
-          <Hash>a80fc4fac5931dfb596b370ca2f5ece1</Hash>
-          <Size>9723</Size>
+          <Hash>6d75e1370ee5504d28fce117a350077f</Hash>
+          <Size>9507</Size>
         </FileInfo>
         <FileInfo>
           <Path>\Setup.admx</Path>
           <Url>1.0\Setup.admx</Url>
-          <Hash>1160fa69fe859492e62b5b5ffee9c621</Hash>
-          <Size>1588</Size>
+          <Hash>43952dcd2cc54a799abbe0ca3e6cbb9b</Hash>
+          <Size>1563</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ShapeCollector.admx</Path>
           <Url>1.0\ShapeCollector.admx</Url>
-          <Hash>9a628e7630b454ac4a61f7e2c01cb909</Hash>
-          <Size>1187</Size>
+          <Hash>4f86271f716dcc7e2e1b8045246c2bd8</Hash>
+          <Size>1166</Size>
         </FileInfo>
         <FileInfo>
           <Path>\SharedFolders.admx</Path>
           <Url>1.0\SharedFolders.admx</Url>
-          <Hash>60c6248383095e5e43b7ca8db9b166c5</Hash>
-          <Size>1634</Size>
+          <Hash>da84ffa863ea1b5aa31069bd2367dc4e</Hash>
+          <Size>1603</Size>
         </FileInfo>
         <FileInfo>
           <Path>\Sharing.admx</Path>
           <Url>1.0\Sharing.admx</Url>
-          <Hash>cadd54b0e8de98b975fb93b15080f256</Hash>
-          <Size>1985</Size>
+          <Hash>a8f4f7aaeba1e0cce0d45ac5274c6d8e</Hash>
+          <Size>1946</Size>
         </FileInfo>
         <FileInfo>
           <Path>\Shell-CommandPrompt-RegEditTools.admx</Path>
           <Url>1.0\Shell-CommandPrompt-RegEditTools.admx</Url>
-          <Hash>5590e4b921b3c0275e323507a120bd19</Hash>
-          <Size>3466</Size>
+          <Hash>9a8807b5ca20dd3a7d3a2e9df1c8fa99</Hash>
+          <Size>3399</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ShellWelcomeCenter.admx</Path>
           <Url>1.0\ShellWelcomeCenter.admx</Url>
-          <Hash>e0f3c806e0474512f077a7a55bf67d7f</Hash>
-          <Size>1157</Size>
+          <Hash>4f879b49cc3554814dd24ef732b2c91a</Hash>
+          <Size>1136</Size>
         </FileInfo>
         <FileInfo>
           <Path>\Sidebar.admx</Path>
           <Url>1.0\Sidebar.admx</Url>
-          <Hash>a16b513c1869646fb920422f2bc8f1ba</Hash>
-          <Size>4000</Size>
+          <Hash>52542f148f4152136a7d347a8b664032</Hash>
+          <Size>3924</Size>
         </FileInfo>
         <FileInfo>
           <Path>\SkyDrive.admx</Path>
           <Url>1.0\SkyDrive.admx</Url>
-          <Hash>e571417a50356e52f33a8949964936f3</Hash>
-          <Size>3867</Size>
+          <Hash>bae2ca5d0d4a96480e3fe39205bc6c87</Hash>
+          <Size>3795</Size>
         </FileInfo>
         <FileInfo>
           <Path>\Smartcard.admx</Path>
           <Url>1.0\Smartcard.admx</Url>
-          <Hash>e379dfa6bf0be1ab67c44bba7d07c484</Hash>
-          <Size>9691</Size>
+          <Hash>6a3ee2b66ee88492e6832c6dbb5f2eef</Hash>
+          <Size>9500</Size>
         </FileInfo>
         <FileInfo>
           <Path>\SmartScreen.admx</Path>
           <Url>1.0\SmartScreen.admx</Url>
-          <Hash>53ec8021b408a4c4719850208c9c3023</Hash>
-          <Size>4882</Size>
+          <Hash>2ef47ffb8d75da27e126b8692ad1117e</Hash>
+          <Size>4774</Size>
         </FileInfo>
         <FileInfo>
           <Path>\Snmp.admx</Path>
           <Url>1.0\Snmp.admx</Url>
-          <Hash>0865719d14dd368e545e2170cffa737f</Hash>
-          <Size>2307</Size>
+          <Hash>d48687c6ef1583d9e0593afbbc2c20a8</Hash>
+          <Size>2270</Size>
         </FileInfo>
         <FileInfo>
           <Path>\SoundRec.admx</Path>
           <Url>1.0\SoundRec.admx</Url>
-          <Hash>465fc93b60f40715822660265fb12c02</Hash>
-          <Size>1943</Size>
+          <Hash>770b984409ae7dd97c52dc2905d1562b</Hash>
+          <Size>1907</Size>
         </FileInfo>
         <FileInfo>
           <Path>\Speech.admx</Path>
           <Url>1.0\Speech.admx</Url>
-          <Hash>90ea7095ad898c1e74149591f28f9c08</Hash>
-          <Size>1363</Size>
+          <Hash>ac11db89dc5e6d07ba162c3a9bc373f0</Hash>
+          <Size>1332</Size>
         </FileInfo>
         <FileInfo>
           <Path>\srm-fci.admx</Path>
           <Url>1.0\srm-fci.admx</Url>
-          <Hash>b1433d2594dfaceb0231a7b0288176e9</Hash>
-          <Size>3544</Size>
+          <Hash>d94165dca6923a0018a9c36aa8c8b7cb</Hash>
+          <Size>3483</Size>
         </FileInfo>
         <FileInfo>
           <Path>\StartMenu.admx</Path>
           <Url>1.0\StartMenu.admx</Url>
-          <Hash>397c0234802c1f75d2b8c1c88fe1ea84</Hash>
-          <Size>34756</Size>
+          <Hash>96eb4cd8951918c1fd013b07e1b5cd26</Hash>
+          <Size>34219</Size>
         </FileInfo>
         <FileInfo>
           <Path>\StorageHealth.admx</Path>
           <Url>1.0\StorageHealth.admx</Url>
-          <Hash>f062361fdbd6b1aa7846bf6183ace81c</Hash>
-          <Size>1395</Size>
+          <Hash>81ab1f304ea6d1a0bd63efe2fd97ace2</Hash>
+          <Size>1364</Size>
         </FileInfo>
         <FileInfo>
           <Path>\StorageSense.admx</Path>
           <Url>1.0\StorageSense.admx</Url>
-          <Hash>b5795292250c89c0214f0398b4173b83</Hash>
-          <Size>5944</Size>
+          <Hash>5b83a9f9d811159aa81abcdb15abdfbc</Hash>
+          <Size>5820</Size>
         </FileInfo>
         <FileInfo>
           <Path>\SystemRestore.admx</Path>
           <Url>1.0\SystemRestore.admx</Url>
-          <Hash>b0ac77fdeb234bbb81bec0190201f450</Hash>
-          <Size>1716</Size>
+          <Hash>b5f43409db81060ae8ed69d85799bc7c</Hash>
+          <Size>1680</Size>
         </FileInfo>
         <FileInfo>
           <Path>\TabletPCInputPanel.admx</Path>
           <Url>1.0\TabletPCInputPanel.admx</Url>
-          <Hash>dc7aed82305ffec011bde9d153b7ee6f</Hash>
-          <Size>11826</Size>
+          <Hash>b46d98171d16166a5c2bafce41d3c9ba</Hash>
+          <Size>11554</Size>
         </FileInfo>
         <FileInfo>
           <Path>\TabletShell.admx</Path>
           <Url>1.0\TabletShell.admx</Url>
-          <Hash>526596e9f11043efb72e8fd3479b1134</Hash>
-          <Size>12331</Size>
+          <Hash>40f62377294b990fb1dd3fa364441d26</Hash>
+          <Size>12083</Size>
         </FileInfo>
         <FileInfo>
           <Path>\Taskbar.admx</Path>
           <Url>1.0\Taskbar.admx</Url>
-          <Hash>fd4e65bb2dfb2c9ae84bb606bca7d360</Hash>
-          <Size>14692</Size>
+          <Hash>534c1af6e4f52e9f66bdfd9b1ccbb0b6</Hash>
+          <Size>14437</Size>
         </FileInfo>
         <FileInfo>
           <Path>\TaskScheduler.admx</Path>
           <Url>1.0\TaskScheduler.admx</Url>
-          <Hash>81f5d01fcc855eaa4e2195a41354cf43</Hash>
-          <Size>5520</Size>
+          <Hash>49d68da71456fb39d733a683218d4cf5</Hash>
+          <Size>5448</Size>
         </FileInfo>
         <FileInfo>
           <Path>\tcpip.admx</Path>
           <Url>1.0\tcpip.admx</Url>
-          <Hash>ab3e2d1f85ea336c51c4847847a93936</Hash>
-          <Size>10646</Size>
+          <Hash>a6414bfc89d81ad14d89d4ef49225ac5</Hash>
+          <Size>10433</Size>
         </FileInfo>
         <FileInfo>
           <Path>\TerminalServer-Server.admx</Path>
           <Url>1.0\TerminalServer-Server.admx</Url>
-          <Hash>affd0d4a7e7da8f6a4827289e2c0ddde</Hash>
-          <Size>18071</Size>
+          <Hash>c0c6a9465cfba4b0e93a15323c905516</Hash>
+          <Size>17667</Size>
         </FileInfo>
         <FileInfo>
           <Path>\TerminalServer.admx</Path>
           <Url>1.0\TerminalServer.admx</Url>
-          <Hash>718b838ee9e899142379ec68c85a4fdb</Hash>
-          <Size>97578</Size>
+          <Hash>4ed7774e683861fbd38a8b833e00335e</Hash>
+          <Size>95412</Size>
         </FileInfo>
         <FileInfo>
           <Path>\TextInput.admx</Path>
           <Url>1.0\TextInput.admx</Url>
-          <Hash>3306eff174a70b715deaf765b638642d</Hash>
-          <Size>1945</Size>
+          <Hash>8f122de9cb4dc8eedb314161d3378aa6</Hash>
+          <Size>1909</Size>
         </FileInfo>
         <FileInfo>
           <Path>\Thumbnails.admx</Path>
           <Url>1.0\Thumbnails.admx</Url>
-          <Hash>c683f6ad17ff50bef2c01849df62e26b</Hash>
-          <Size>2352</Size>
+          <Hash>b38db498f5faade92f1757588c80c665</Hash>
+          <Size>2310</Size>
         </FileInfo>
         <FileInfo>
           <Path>\TouchInput.admx</Path>
           <Url>1.0\TouchInput.admx</Url>
-          <Hash>76493e67f8d3f5de1d0bfd5b8dab7273</Hash>
-          <Size>2740</Size>
+          <Hash>db52190c3d1ff996962b1f8175800758</Hash>
+          <Size>2684</Size>
         </FileInfo>
         <FileInfo>
           <Path>\TPM.admx</Path>
           <Url>1.0\TPM.admx</Url>
-          <Hash>695d8f93d1ca85a4b696e7041743898f</Hash>
-          <Size>7505</Size>
+          <Hash>79e66bbf635d724bf757a5258df073b9</Hash>
+          <Size>7379</Size>
         </FileInfo>
         <FileInfo>
           <Path>\UserExperienceVirtualization.admx</Path>
           <Url>1.0\UserExperienceVirtualization.admx</Url>
-          <Hash>5cf9cf372c0d3da4cc99a43d4ecb9ac6</Hash>
-          <Size>145225</Size>
+          <Hash>5be176efff1d6c5e03f64bd11759af94</Hash>
+          <Size>142266</Size>
         </FileInfo>
         <FileInfo>
           <Path>\UserProfiles.admx</Path>
           <Url>1.0\UserProfiles.admx</Url>
-          <Hash>7810db16193354ed211a8b4f37dbc253</Hash>
-          <Size>20787</Size>
+          <Hash>e980c3b03087e20c2f5033066fdb76dc</Hash>
+          <Size>20343</Size>
         </FileInfo>
         <FileInfo>
           <Path>\VolumeEncryption.admx</Path>
           <Url>1.0\VolumeEncryption.admx</Url>
-          <Hash>50414e47733abc40f461c97f1dc3e79b</Hash>
-          <Size>74492</Size>
+          <Hash>53e514caa811c27f178b44acd13b03cf</Hash>
+          <Size>72600</Size>
         </FileInfo>
         <FileInfo>
           <Path>\W32Time.admx</Path>
           <Url>1.0\W32Time.admx</Url>
-          <Hash>7cdbe800d7e785eb435d47b6a80a1ab4</Hash>
-          <Size>6748</Size>
+          <Hash>1e2d69aaf6ff8e38cfbde13599aeb934</Hash>
+          <Size>6645</Size>
         </FileInfo>
         <FileInfo>
           <Path>\WCM.admx</Path>
           <Url>1.0\WCM.admx</Url>
-          <Hash>ca52d8a48ba73f6f2ca44561abe516cf</Hash>
-          <Size>4203</Size>
+          <Hash>d298cbfbba0dd9536d10ee20d28317f2</Hash>
+          <Size>4118</Size>
         </FileInfo>
         <FileInfo>
           <Path>\WDI.admx</Path>
           <Url>1.0\WDI.admx</Url>
-          <Hash>de481e506e591fa0aec317678434e2be</Hash>
-          <Size>2512</Size>
+          <Hash>214c7f7a2d4c30de977e698c242988b0</Hash>
+          <Size>2464</Size>
         </FileInfo>
         <FileInfo>
           <Path>\WinCal.admx</Path>
           <Url>1.0\WinCal.admx</Url>
-          <Hash>bede56a7aef6b3db49ab7d2eb3f2870a</Hash>
-          <Size>1768</Size>
+          <Hash>ddda6cb237dc0faa1426e64fc5e7d845</Hash>
+          <Size>1732</Size>
         </FileInfo>
         <FileInfo>
           <Path>\Windows.admx</Path>
           <Url>1.0\Windows.admx</Url>
-          <Hash>d3a0666fced53c4ad20728b5ec36deeb</Hash>
-          <Size>25313</Size>
+          <Hash>a6e0363dab0f8de1c27c3f51780479ca</Hash>
+          <Size>24772</Size>
         </FileInfo>
         <FileInfo>
           <Path>\WindowsAnytimeUpgrade.admx</Path>
           <Url>1.0\WindowsAnytimeUpgrade.admx</Url>
-          <Hash>9708fb07eee61927d7eaf4974b77442f</Hash>
-          <Size>1265</Size>
+          <Hash>c15ce4de9dd56c1c17e1d9b76e6795b1</Hash>
+          <Size>1239</Size>
         </FileInfo>
         <FileInfo>
           <Path>\WindowsBackup.admx</Path>
           <Url>1.0\WindowsBackup.admx</Url>
-          <Hash>91d15f3a3fe1e068689ff69a1aac4286</Hash>
-          <Size>3791</Size>
+          <Hash>1320785b2363d9458f3cc8456c9f4e65</Hash>
+          <Size>3720</Size>
         </FileInfo>
         <FileInfo>
           <Path>\WindowsColorSystem.admx</Path>
           <Url>1.0\WindowsColorSystem.admx</Url>
-          <Hash>0c53de578479d32a2ddc7e71675e5100</Hash>
-          <Size>2024</Size>
+          <Hash>48ffcec4b87011adb09cbfec6b8d2c2b</Hash>
+          <Size>1988</Size>
         </FileInfo>
         <FileInfo>
           <Path>\WindowsConnectNow.admx</Path>
           <Url>1.0\WindowsConnectNow.admx</Url>
-          <Hash>c6546d47ad8528615dd27200e4eca504</Hash>
-          <Size>4085</Size>
+          <Hash>74c19e78a87c6f68da5be0b26c8f2112</Hash>
+          <Size>3992</Size>
         </FileInfo>
         <FileInfo>
           <Path>\WindowsDefender.admx</Path>
           <Url>1.0\WindowsDefender.admx</Url>
-          <Hash>0e3cc29dbd6941301c9711f7365df6f1</Hash>
-          <Size>85643</Size>
+          <Hash>48a510a3c9d257fce2bf884fdda95144</Hash>
+          <Size>84379</Size>
         </FileInfo>
         <FileInfo>
           <Path>\WindowsDefenderSecurityCenter.admx</Path>
           <Url>1.0\WindowsDefenderSecurityCenter.admx</Url>
-          <Hash>76bd9b3dd2d8d8c3e3d9c08ff19d04e2</Hash>
-          <Size>17272</Size>
+          <Hash>ec7b71b4d9314fdbe87299eab892188b</Hash>
+          <Size>17019</Size>
         </FileInfo>
         <FileInfo>
           <Path>\WindowsExplorer.admx</Path>
           <Url>1.0\WindowsExplorer.admx</Url>
-          <Hash>56ced6cded39ba402d29a93c97c9879a</Hash>
-          <Size>42461</Size>
+          <Hash>ab60f27ae0d44cdb36a27eab523e4685</Hash>
+          <Size>41649</Size>
         </FileInfo>
         <FileInfo>
           <Path>\WindowsFileProtection.admx</Path>
           <Url>1.0\WindowsFileProtection.admx</Url>
-          <Hash>c86782a0615825d31bc1bcf2c7df90fc</Hash>
-          <Size>3000</Size>
+          <Hash>bb6fd52bc1f15a3bca320efeb4cef940</Hash>
+          <Size>2942</Size>
         </FileInfo>
         <FileInfo>
           <Path>\WindowsFirewall.admx</Path>
           <Url>1.0\WindowsFirewall.admx</Url>
-          <Hash>bfa8e91789d4cd0028f55e5c4e9f09f0</Hash>
-          <Size>27019</Size>
+          <Hash>b1182c363c7b0cc84f624a9bf2678050</Hash>
+          <Size>26469</Size>
         </FileInfo>
         <FileInfo>
           <Path>\WindowsInkWorkspace.admx</Path>
           <Url>1.0\WindowsInkWorkspace.admx</Url>
-          <Hash>f48dda96cf36c2d68f413a95aed6eeb0</Hash>
-          <Size>2682</Size>
+          <Hash>507372af2be4cbb53166513bf56cdbc1</Hash>
+          <Size>2628</Size>
         </FileInfo>
         <FileInfo>
           <Path>\WindowsMediaDRM.admx</Path>
           <Url>1.0\WindowsMediaDRM.admx</Url>
-          <Hash>c4824cc6dba3e3663ac7a2584491fdba</Hash>
-          <Size>1254</Size>
+          <Hash>d2e90f53ad2afce1c7864265550a30bc</Hash>
+          <Size>1228</Size>
         </FileInfo>
         <FileInfo>
           <Path>\WindowsMediaPlayer.admx</Path>
           <Url>1.0\WindowsMediaPlayer.admx</Url>
-          <Hash>9a3c32d543be72d2bb3c90f38fea39f2</Hash>
-          <Size>22974</Size>
+          <Hash>8450f44bdf2e33bd1fe9fa88b2de29e1</Hash>
+          <Size>22454</Size>
         </FileInfo>
         <FileInfo>
           <Path>\WindowsMessenger.admx</Path>
           <Url>1.0\WindowsMessenger.admx</Url>
-          <Hash>58519484a7334577a272757f665b93a9</Hash>
-          <Size>2903</Size>
+          <Hash>6000ca2ef0caa5bc6813cc47cbe36789</Hash>
+          <Size>2847</Size>
         </FileInfo>
         <FileInfo>
           <Path>\WindowsProducts.admx</Path>
           <Url>1.0\WindowsProducts.admx</Url>
-          <Hash>f35eba96bbcda4b01e5f91596c25efb5</Hash>
-          <Size>10108</Size>
+          <Hash>115dfc852fb991a661c37a294b0d24e1</Hash>
+          <Size>9967</Size>
         </FileInfo>
         <FileInfo>
           <Path>\WindowsRemoteManagement.admx</Path>
           <Url>1.0\WindowsRemoteManagement.admx</Url>
-          <Hash>87e6e6c38f00f7d6712c3c7db37b3eaa</Hash>
-          <Size>10530</Size>
+          <Hash>cfe1e18eecdcd43f2ef8902ae944c867</Hash>
+          <Size>10324</Size>
         </FileInfo>
         <FileInfo>
           <Path>\WindowsRemoteShell.admx</Path>
           <Url>1.0\WindowsRemoteShell.admx</Url>
-          <Hash>35623349078eaa8f139b7a6217962802</Hash>
-          <Size>4338</Size>
+          <Hash>a2d8d4b56ad112cc924016f935b68cd5</Hash>
+          <Size>4270</Size>
         </FileInfo>
         <FileInfo>
           <Path>\WindowsServer.admx</Path>
           <Url>1.0\WindowsServer.admx</Url>
-          <Hash>5c92b84c84b6a0a84e4740d36900c83a</Hash>
-          <Size>1314</Size>
+          <Hash>bf787671c80ccf50bdd09a40c2d8fe7a</Hash>
+          <Size>1286</Size>
         </FileInfo>
         <FileInfo>
           <Path>\WindowsStore.admx</Path>
           <Url>1.0\WindowsStore.admx</Url>
-          <Hash>eeeb4ef8b294fed6fa0512e8c4f15b03</Hash>
-          <Size>5248</Size>
+          <Hash>ad259109f70a66f8d3d4c85c944970fe</Hash>
+          <Size>5097</Size>
         </FileInfo>
         <FileInfo>
           <Path>\WindowsUpdate.admx</Path>
           <Url>1.0\WindowsUpdate.admx</Url>
-          <Hash>f5bfecb538f0a6824a37fce1dc0aa96c</Hash>
-          <Size>96642</Size>
+          <Hash>ad0c5caae2acd3357f16e006f992f774</Hash>
+          <Size>94027</Size>
         </FileInfo>
         <FileInfo>
           <Path>\WinInit.admx</Path>
           <Url>1.0\WinInit.admx</Url>
-          <Hash>1d97313108dc72a1415ab76cdce3aaad</Hash>
-          <Size>2591</Size>
+          <Hash>5d225a9fb7a3c210f37ab06214b2837d</Hash>
+          <Size>2545</Size>
         </FileInfo>
         <FileInfo>
           <Path>\WinLogon.admx</Path>
           <Url>1.0\WinLogon.admx</Url>
-          <Hash>5d86588800a02c996799461574835045</Hash>
-          <Size>6790</Size>
+          <Hash>be693c8e66f76b1f7740e1c3ad4df74e</Hash>
+          <Size>6652</Size>
         </FileInfo>
         <FileInfo>
           <Path>\WinMaps.admx</Path>
           <Url>1.0\WinMaps.admx</Url>
-          <Hash>5a08143f3fd10007d14526c13b873e78</Hash>
-          <Size>2053</Size>
+          <Hash>0ca2857127cffd45b635fc1a547078ed</Hash>
+          <Size>2007</Size>
         </FileInfo>
         <FileInfo>
           <Path>\Winsrv.admx</Path>
           <Url>1.0\Winsrv.admx</Url>
-          <Hash>b28573159bdea736f3bdff16604a4ad3</Hash>
-          <Size>1342</Size>
+          <Hash>1af1a9a4bec30a1bfda56c32a54a9c73</Hash>
+          <Size>1316</Size>
         </FileInfo>
         <FileInfo>
           <Path>\WirelessDisplay.admx</Path>
           <Url>1.0\WirelessDisplay.admx</Url>
-          <Hash>0acfe2cb2ab25a9a5917415ece919db5</Hash>
-          <Size>2288</Size>
+          <Hash>5ff48379d3798e2d38fcb2ba2b706015</Hash>
+          <Size>2241</Size>
         </FileInfo>
         <FileInfo>
           <Path>\wlansvc.admx</Path>
           <Url>1.0\wlansvc.admx</Url>
-          <Hash>d2b497fd8cd948bda340562edfe13ed3</Hash>
-          <Size>3859</Size>
+          <Hash>15b0d8fec758ffb8fa17d387d3c769cc</Hash>
+          <Size>3780</Size>
         </FileInfo>
         <FileInfo>
           <Path>\WordWheel.admx</Path>
           <Url>1.0\WordWheel.admx</Url>
-          <Hash>69dd9bb743b7fbf1497660113b377298</Hash>
-          <Size>1406</Size>
+          <Hash>49e9c6de9a050aa15ac4898c9fca299a</Hash>
+          <Size>1382</Size>
         </FileInfo>
         <FileInfo>
           <Path>\WorkFolders-Client.admx</Path>
           <Url>1.0\WorkFolders-Client.admx</Url>
-          <Hash>1c90a7e025ff83aa4d2e46fbb38291c3</Hash>
-          <Size>3846</Size>
+          <Hash>dd5c0537dc11238532f980a06f76f8c9</Hash>
+          <Size>3758</Size>
         </FileInfo>
         <FileInfo>
           <Path>\WorkplaceJoin.admx</Path>
           <Url>1.0\WorkplaceJoin.admx</Url>
-          <Hash>b5c5f4b461b97f7d43ef49186d4354e6</Hash>
-          <Size>1285</Size>
+          <Hash>deaf2a7b5bcb93eff69ae8b60965d03c</Hash>
+          <Size>1259</Size>
         </FileInfo>
         <FileInfo>
           <Path>\WPN.admx</Path>
           <Url>1.0\WPN.admx</Url>
-          <Hash>2db11607cee86ee1b2fee515c5d3b69f</Hash>
-          <Size>5918</Size>
+          <Hash>c454374ade32ee7814af73dd26477901</Hash>
+          <Size>5809</Size>
         </FileInfo>
         <FileInfo>
           <Path>\wwansvc.admx</Path>
           <Url>1.0\wwansvc.admx</Url>
-          <Hash>df17ef2c1f83ce89f433eac86da18ae8</Hash>
-          <Size>5662</Size>
+          <Hash>491a6faf45d590056c133b68ee93a96c</Hash>
+          <Size>5542</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\ActiveXInstallService.adml</Path>
           <Url>1.0\ru-RU\ActiveXInstallService.adml</Url>
-          <Hash>7225175f01de75b1cf6c5ee04baa70a6</Hash>
-          <Size>9022</Size>
+          <Hash>4de88888cdad53f5a856e4a575630bf9</Hash>
+          <Size>8943</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\AddRemovePrograms.adml</Path>
           <Url>1.0\ru-RU\AddRemovePrograms.adml</Url>
-          <Hash>6adce98dc931c709445926832e696f46</Hash>
-          <Size>19969</Size>
+          <Hash>8e4d331d70e1a9d596a098912cf019c9</Hash>
+          <Size>19845</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\AllowBuildPreview.adml</Path>
           <Url>1.0\ru-RU\AllowBuildPreview.adml</Url>
-          <Hash>796a4bb740a047922adfe45e01777a6d</Hash>
-          <Size>2225</Size>
+          <Hash>f1f2df41d26e89bc31bfd882adc6ca81</Hash>
+          <Size>2207</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\AppCompat.adml</Path>
           <Url>1.0\ru-RU\AppCompat.adml</Url>
-          <Hash>ca51f9016c330d46392470d4ee7c4b68</Hash>
-          <Size>18673</Size>
+          <Hash>7186d293621d156fe6fd28a24ec8a80a</Hash>
+          <Size>18581</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\AppHVSI.adml</Path>
           <Url>1.0\ru-RU\AppHVSI.adml</Url>
-          <Hash>96d36a9f3708e8ea5ab660d1cb079f7a</Hash>
-          <Size>26380</Size>
+          <Hash>ee7691e9aa40fcb71271f64a30b5c3a3</Hash>
+          <Size>26175</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\AppPrivacy.adml</Path>
           <Url>1.0\ru-RU\AppPrivacy.adml</Url>
-          <Hash>33e07417063fb5d3053da9fc28a3cb4b</Hash>
-          <Size>84028</Size>
+          <Hash>f2287927840261b78989b3f32cc94d95</Hash>
+          <Size>83679</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\appv.adml</Path>
           <Url>1.0\ru-RU\appv.adml</Url>
-          <Hash>72340be65b8b9906f8aecdc3c8adf0f3</Hash>
-          <Size>37432</Size>
+          <Hash>fbd9e3d7a58b6f0e4a2e20b3715a2a89</Hash>
+          <Size>37145</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\AppxPackageManager.adml</Path>
           <Url>1.0\ru-RU\AppxPackageManager.adml</Url>
-          <Hash>fcd4bd4e36c3c81c2ca7a1a497c70374</Hash>
-          <Size>9281</Size>
+          <Hash>94314194ad6374f74ab1d5aa970ea597</Hash>
+          <Size>9217</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\AppXRuntime.adml</Path>
           <Url>1.0\ru-RU\AppXRuntime.adml</Url>
-          <Hash>f6f67d92dfc7b4e407c2c86900e9bef8</Hash>
-          <Size>10132</Size>
+          <Hash>ca655335dfb7421e327be0fad5491d6c</Hash>
+          <Size>10077</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\AttachmentManager.adml</Path>
           <Url>1.0\ru-RU\AttachmentManager.adml</Url>
-          <Hash>2c3b2e9f0d26bd01039d61ff9ffda0a7</Hash>
-          <Size>17328</Size>
+          <Hash>06463f8b62e95ee51a8fca5405c16c22</Hash>
+          <Size>17212</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\AuditSettings.adml</Path>
           <Url>1.0\ru-RU\AuditSettings.adml</Url>
-          <Hash>bbfd3aeece5a57a33d961748cdb6971e</Hash>
-          <Size>2974</Size>
+          <Hash>5dc89f124f45ff2a34728b4b663599b6</Hash>
+          <Size>2947</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\AutoPlay.adml</Path>
           <Url>1.0\ru-RU\AutoPlay.adml</Url>
-          <Hash>f069e76bb87dc281aca742f91c99672c</Hash>
-          <Size>8620</Size>
+          <Hash>5968b775989f2e5183ff56ba8c80e356</Hash>
+          <Size>8553</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\AVSValidationGP.adml</Path>
           <Url>1.0\ru-RU\AVSValidationGP.adml</Url>
-          <Hash>32a1240e98cad2568c59c22e5fdc4934</Hash>
-          <Size>3137</Size>
+          <Hash>bc6e1dc89b7948d75ab4c15210e985a4</Hash>
+          <Size>3110</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\Biometrics.adml</Path>
           <Url>1.0\ru-RU\Biometrics.adml</Url>
-          <Hash>3cef4d66eeb9f7f7e409429f0da7a369</Hash>
-          <Size>10270</Size>
+          <Hash>bb4b3722113366542fc2c50347c6d09a</Hash>
+          <Size>10207</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\Bits.adml</Path>
           <Url>1.0\ru-RU\Bits.adml</Url>
-          <Hash>4c0e3dcec1fb8af52b1e31f2abf11d71</Hash>
-          <Size>55015</Size>
+          <Hash>d23f06b3728fa05d0014ff0e058364d7</Hash>
+          <Size>54623</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\Camera.adml</Path>
@@ -1392,1184 +1392,1184 @@
         <FileInfo>
           <Path>\ru-RU\CEIPEnable.adml</Path>
           <Url>1.0\ru-RU\CEIPEnable.adml</Url>
-          <Hash>3909d00954328d74e13bdf0f25fa3b4e</Hash>
-          <Size>3069</Size>
+          <Hash>f66e020d427ba5df2781082a1fb40c16</Hash>
+          <Size>3035</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\CipherSuiteOrder.adml</Path>
           <Url>1.0\ru-RU\CipherSuiteOrder.adml</Url>
-          <Hash>4abea789a1c1cf547defbbecb062f137</Hash>
-          <Size>4188</Size>
+          <Hash>86680ad33c4a7e1c9525554782f838bb</Hash>
+          <Size>4136</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\CloudContent.adml</Path>
           <Url>1.0\ru-RU\CloudContent.adml</Url>
-          <Hash>b42badd063bb6af279458594c36b3dcf</Hash>
-          <Size>14870</Size>
+          <Hash>3f2c027ff14fe9916cec4d8ecf642e95</Hash>
+          <Size>14793</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\COM.adml</Path>
           <Url>1.0\ru-RU\COM.adml</Url>
-          <Hash>f9ef1cd79bcac115d970c8495707cade</Hash>
-          <Size>2760</Size>
+          <Hash>17c4845b472cd3d5dcd82a93dd11e5ed</Hash>
+          <Size>2740</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\Conf.adml</Path>
           <Url>1.0\ru-RU\Conf.adml</Url>
-          <Hash>3fe64b8be3ec0fcf9410a34263eca255</Hash>
-          <Size>17604</Size>
+          <Hash>0ed12e73918f6920643ec02343dc8fda</Hash>
+          <Size>17480</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\ControlPanel.adml</Path>
           <Url>1.0\ru-RU\ControlPanel.adml</Url>
-          <Hash>99e02f97fbf5d5fbeb6728c1634bdf72</Hash>
-          <Size>16220</Size>
+          <Hash>220066b76328a870a1464ee2758bbc8c</Hash>
+          <Size>16123</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\ControlPanelDisplay.adml</Path>
           <Url>1.0\ru-RU\ControlPanelDisplay.adml</Url>
-          <Hash>4fa1d3edc085227ae5f42cca67b65613</Hash>
-          <Size>38288</Size>
+          <Hash>80c63c9c9343bdc27da3df9a631f6b32</Hash>
+          <Size>38013</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\Cpls.adml</Path>
           <Url>1.0\ru-RU\Cpls.adml</Url>
-          <Hash>87897dd5a60dc7a74d89779eda5fa42c</Hash>
-          <Size>2366</Size>
+          <Hash>d691028809e679efb774fa9d1e070785</Hash>
+          <Size>2345</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\CredentialProviders.adml</Path>
           <Url>1.0\ru-RU\CredentialProviders.adml</Url>
-          <Hash>ef3ec80ff955bccfaa1227e540e1d98b</Hash>
-          <Size>13222</Size>
+          <Hash>399dcb70de1f7bcee2c5c5f50019029f</Hash>
+          <Size>13136</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\CredSsp.adml</Path>
           <Url>1.0\ru-RU\CredSsp.adml</Url>
-          <Hash>62379ff01f573812ae45d280b5307d89</Hash>
-          <Size>41709</Size>
+          <Hash>f14ef74f402cd4d7757aaadc403233de</Hash>
+          <Size>41467</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\CredUI.adml</Path>
           <Url>1.0\ru-RU\CredUI.adml</Url>
-          <Hash>54d914a4260e0ec21b00d02e29554176</Hash>
-          <Size>5844</Size>
+          <Hash>0823c72dfb5aa9d2be99e3a1c737466c</Hash>
+          <Size>5806</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\CtrlAltDel.adml</Path>
           <Url>1.0\ru-RU\CtrlAltDel.adml</Url>
-          <Hash>a4b277455d3e3d64c9f88c2e8b8cd5e8</Hash>
-          <Size>5942</Size>
+          <Hash>17f2536b404bfe0c414a7e38ba9e5285</Hash>
+          <Size>5899</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\DataCollection.adml</Path>
           <Url>1.0\ru-RU\DataCollection.adml</Url>
-          <Hash>56f4f3478540ef3d87b63dba46f7d316</Hash>
-          <Size>24063</Size>
+          <Hash>09a69ecfa5ea97bbd2b4db8e62b80f9b</Hash>
+          <Size>23912</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\DCOM.adml</Path>
           <Url>1.0\ru-RU\DCOM.adml</Url>
-          <Hash>a4efcc67d4e08342e4bb955cbbcd137f</Hash>
-          <Size>8621</Size>
+          <Hash>88aa767cecd62eb64d4148175165f1da</Hash>
+          <Size>8570</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\DeliveryOptimization.adml</Path>
           <Url>1.0\ru-RU\DeliveryOptimization.adml</Url>
-          <Hash>29389508f586c17aab344351c3262906</Hash>
-          <Size>38910</Size>
+          <Hash>4af256d84185a4aae43a854e035fc1e8</Hash>
+          <Size>38582</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\Desktop.adml</Path>
           <Url>1.0\ru-RU\Desktop.adml</Url>
-          <Hash>bc2ef7ac08f3b8983cb2459828fc5cdb</Hash>
-          <Size>41226</Size>
+          <Hash>6678825cea482f8ec4da4fe296444fc4</Hash>
+          <Size>40961</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\DeviceCompat.adml</Path>
           <Url>1.0\ru-RU\DeviceCompat.adml</Url>
-          <Hash>b1abcc163dd49af53af1705fb357e8a3</Hash>
-          <Size>1398</Size>
+          <Hash>52266364617671174d5f1d5c26fdc056</Hash>
+          <Size>1383</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\DeviceCredential.adml</Path>
           <Url>1.0\ru-RU\DeviceCredential.adml</Url>
-          <Hash>c779a37f1ec347cb6584f0a9effe30b5</Hash>
-          <Size>2271</Size>
+          <Hash>b8968338447c0efd802b2d44add24cdc</Hash>
+          <Size>2254</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\DeviceGuard.adml</Path>
           <Url>1.0\ru-RU\DeviceGuard.adml</Url>
-          <Hash>3df709f116d84d80c7bb18665486b71e</Hash>
-          <Size>12441</Size>
+          <Hash>7e84d5ee6c66218cb559062810eca80c</Hash>
+          <Size>12352</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\DeviceInstallation.adml</Path>
           <Url>1.0\ru-RU\DeviceInstallation.adml</Url>
-          <Hash>0b144227ad949fd09757aeae0564480e</Hash>
-          <Size>36078</Size>
+          <Hash>9b77874c945b6265929b5fe064478600</Hash>
+          <Size>35898</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\DeviceSetup.adml</Path>
           <Url>1.0\ru-RU\DeviceSetup.adml</Url>
-          <Hash>2ede2246c929c6982a5d17f03eb2aa33</Hash>
-          <Size>15474</Size>
+          <Hash>6100c861617a82b6a9e265a3144cde9c</Hash>
+          <Size>15379</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\DFS.adml</Path>
           <Url>1.0\ru-RU\DFS.adml</Url>
-          <Hash>ddcfa87145cd5a234d21a4444a1cd3f3</Hash>
-          <Size>2384</Size>
+          <Hash>8b920d4933b974b51cee0cded12891e7</Hash>
+          <Size>2361</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\DigitalLocker.adml</Path>
           <Url>1.0\ru-RU\DigitalLocker.adml</Url>
-          <Hash>e01bff0085db939b44de5c857170e59d</Hash>
-          <Size>1610</Size>
+          <Hash>04fe7e8f3f1708e0dbf3bc494fc4d09c</Hash>
+          <Size>1591</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\DiskDiagnostic.adml</Path>
           <Url>1.0\ru-RU\DiskDiagnostic.adml</Url>
-          <Hash>2ac937fc51df4fbec922da1a64d914ae</Hash>
-          <Size>7158</Size>
+          <Hash>0f6c278f442456f07b7feab321ec3e51</Hash>
+          <Size>7098</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\DiskNVCache.adml</Path>
           <Url>1.0\ru-RU\DiskNVCache.adml</Url>
-          <Hash>edb7d8c33bfc03a1c04fbd9a8ec67444</Hash>
-          <Size>8100</Size>
+          <Hash>3c17d2e8ce0b4bed0f1ae34e081a3424</Hash>
+          <Size>8049</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\DiskQuota.adml</Path>
           <Url>1.0\ru-RU\DiskQuota.adml</Url>
-          <Hash>9a621021f225fb4030ee73177cf13ab8</Hash>
-          <Size>17661</Size>
+          <Hash>59c2e32e77cc59b734eb8d3cd4d5af37</Hash>
+          <Size>17562</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\Display.adml</Path>
           <Url>1.0\ru-RU\Display.adml</Url>
-          <Hash>2a789d958a393b0a5ed27be31e2400a7</Hash>
-          <Size>10327</Size>
+          <Hash>1991b736581aeb7a60036aa8fea94583</Hash>
+          <Size>10255</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\DistributedLinkTracking.adml</Path>
           <Url>1.0\ru-RU\DistributedLinkTracking.adml</Url>
-          <Hash>67f8b48abf2d38dfa6a3b2a71f4b7967</Hash>
-          <Size>1839</Size>
+          <Hash>cc5631d23b2ddc220b5a9656e30dbb02</Hash>
+          <Size>1827</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\DmaGuard.adml</Path>
           <Url>1.0\ru-RU\DmaGuard.adml</Url>
-          <Hash>de36b2a61257d11d2821d0120d348a4b</Hash>
-          <Size>2098</Size>
+          <Hash>b073db8f0804f4aee4e630ccf4f93403</Hash>
+          <Size>2073</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\DnsClient.adml</Path>
           <Url>1.0\ru-RU\DnsClient.adml</Url>
-          <Hash>987b568910492754f3552c96da985f40</Hash>
-          <Size>52802</Size>
+          <Hash>6be003880f6fdc5e50d6b809442d9195</Hash>
+          <Size>52510</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\DWM.adml</Path>
           <Url>1.0\ru-RU\DWM.adml</Url>
-          <Hash>1834937d03f2a5b6aca383f68a2ab87d</Hash>
-          <Size>7905</Size>
+          <Hash>1431866f17ddd64e8d9dcd0e27470ac2</Hash>
+          <Size>7839</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\EAIME.adml</Path>
           <Url>1.0\ru-RU\EAIME.adml</Url>
-          <Hash>3ebb6c8094ba8c27e5969ee3c1576063</Hash>
-          <Size>18601</Size>
+          <Hash>c1c22eecd1d3b3b2c51ddc85d5778050</Hash>
+          <Size>18451</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\EarlyLaunchAM.adml</Path>
           <Url>1.0\ru-RU\EarlyLaunchAM.adml</Url>
-          <Hash>531b17fe4b1c3a43afc6b8ea60e2581b</Hash>
-          <Size>4413</Size>
+          <Hash>3fad4d93ee698fb1acf7fee103f6eb58</Hash>
+          <Size>4379</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\EdgeUI.adml</Path>
           <Url>1.0\ru-RU\EdgeUI.adml</Url>
-          <Hash>c1603cf20a4e0ffe11b743d7136e3b21</Hash>
-          <Size>8582</Size>
+          <Hash>4a7d8e46eb2ddd3739642270579ca485</Hash>
+          <Size>8529</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\EncryptFilesonMove.adml</Path>
           <Url>1.0\ru-RU\EncryptFilesonMove.adml</Url>
-          <Hash>b1fe9c78435e03008c9460a795b16a94</Hash>
-          <Size>1986</Size>
+          <Hash>df4eb8db5bf1306a594ccab8d68264be</Hash>
+          <Size>1968</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\EnhancedStorage.adml</Path>
           <Url>1.0\ru-RU\EnhancedStorage.adml</Url>
-          <Hash>5ab46ed904205bec31be122c6f08990f</Hash>
-          <Size>9870</Size>
+          <Hash>b7b1cd126b9820d3fc39774587b1fc2d</Hash>
+          <Size>9795</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\ErrorReporting.adml</Path>
           <Url>1.0\ru-RU\ErrorReporting.adml</Url>
-          <Hash>5de02bb7e137d552704bb34f12a3277d</Hash>
-          <Size>55101</Size>
+          <Hash>effa5f2b11b62d305012e12762c8110d</Hash>
+          <Size>54804</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\EventForwarding.adml</Path>
           <Url>1.0\ru-RU\EventForwarding.adml</Url>
-          <Hash>f282bed128d6e072501205164ce2f4f4</Hash>
-          <Size>3851</Size>
+          <Hash>ace898811d74526b8f7e29046b82bef9</Hash>
+          <Size>3796</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\EventLog.adml</Path>
           <Url>1.0\ru-RU\EventLog.adml</Url>
-          <Hash>02bc0fd8a772cfdf73817fc36fa8e223</Hash>
-          <Size>19987</Size>
+          <Hash>ef1a740b677250467e847118d3b6db4b</Hash>
+          <Size>19814</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\EventLogging.adml</Path>
           <Url>1.0\ru-RU\EventLogging.adml</Url>
-          <Hash>009c65061c0fee4b2ff8b4bc906b56dd</Hash>
-          <Size>4276</Size>
+          <Hash>22c04ff85759862d392ad7b69ce65160</Hash>
+          <Size>4242</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\EventViewer.adml</Path>
           <Url>1.0\ru-RU\EventViewer.adml</Url>
-          <Hash>6fe3c2c3807840df9a0484fdf7804c1e</Hash>
-          <Size>2749</Size>
+          <Hash>3bbaaa764fa1115bea7161ce14d1b8ed</Hash>
+          <Size>2712</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\ExploitGuard.adml</Path>
           <Url>1.0\ru-RU\ExploitGuard.adml</Url>
-          <Hash>3c8ef45b34b3a727a2c92b19f71290b1</Hash>
-          <Size>3938</Size>
+          <Hash>2df74dd2b16473f7995aaaad2a47e7e4</Hash>
+          <Size>3895</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\Explorer.adml</Path>
           <Url>1.0\ru-RU\Explorer.adml</Url>
-          <Hash>6bbaf798df81fd0bcd76aab676413ec0</Hash>
-          <Size>7354</Size>
+          <Hash>27f21e5ad0c7d741d2f378dca3d69a0e</Hash>
+          <Size>7304</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\ExternalBoot.adml</Path>
           <Url>1.0\ru-RU\ExternalBoot.adml</Url>
-          <Hash>cde67271effcd76d2e41f14cc11132eb</Hash>
-          <Size>7011</Size>
+          <Hash>ca4550fcab42b0ccdd46652c43cca121</Hash>
+          <Size>6988</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\FeedbackNotifications.adml</Path>
           <Url>1.0\ru-RU\FeedbackNotifications.adml</Url>
-          <Hash>b8695d3915b52cc789847021d24d5966</Hash>
-          <Size>1718</Size>
+          <Hash>909e5501ec9e957d776164b206ee6586</Hash>
+          <Size>1700</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\FileHistory.adml</Path>
           <Url>1.0\ru-RU\FileHistory.adml</Url>
-          <Hash>5e66c9660cb2ebde4587e3cc1e2c69f8</Hash>
-          <Size>1356</Size>
+          <Hash>29af27d6eee6073d398f73e0fd9dcc0d</Hash>
+          <Size>1339</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\FileRecovery.adml</Path>
           <Url>1.0\ru-RU\FileRecovery.adml</Url>
-          <Hash>812069f7c3b50afab15ec47adfb14de5</Hash>
-          <Size>4979</Size>
+          <Hash>3f42f221e2ac7b446922c55cfed674f5</Hash>
+          <Size>4942</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\FileRevocation.adml</Path>
           <Url>1.0\ru-RU\FileRevocation.adml</Url>
-          <Hash>b13af954a491f8df402b26eb92456dc6</Hash>
-          <Size>4212</Size>
+          <Hash>34c9308402648f9b57519b71077f3b3d</Hash>
+          <Size>4183</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\FileServerVSSProvider.adml</Path>
           <Url>1.0\ru-RU\FileServerVSSProvider.adml</Url>
-          <Hash>f6bb01d4a8bf376a34ebbad15f941f95</Hash>
-          <Size>2563</Size>
+          <Hash>7dcf7513670e8f82f9699ca4cc8b6c83</Hash>
+          <Size>2540</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\FileSys.adml</Path>
           <Url>1.0\ru-RU\FileSys.adml</Url>
-          <Hash>13d33459e7924c9da34a9e28f3d0e155</Hash>
-          <Size>8251</Size>
+          <Hash>c21fb0fd84f700632774fbd1a0d5eacb</Hash>
+          <Size>8188</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\FindMy.adml</Path>
           <Url>1.0\ru-RU\FindMy.adml</Url>
-          <Hash>1f29f7983d87871009b8a7dcc288bede</Hash>
-          <Size>2447</Size>
+          <Hash>68b6c9ffbdaacbc203cbb5776ded6ca6</Hash>
+          <Size>2429</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\FolderRedirection.adml</Path>
           <Url>1.0\ru-RU\FolderRedirection.adml</Url>
-          <Hash>a5c87be3760c4a726011b453cc1abd44</Hash>
-          <Size>13664</Size>
+          <Hash>5de370553d7210257361518b26ec6251</Hash>
+          <Size>13581</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\FramePanes.adml</Path>
           <Url>1.0\ru-RU\FramePanes.adml</Url>
-          <Hash>5b16258c1ed916a9a195d6403f27b80f</Hash>
-          <Size>3388</Size>
+          <Hash>7c542c5e98933e865e9d3f2e635cf77d</Hash>
+          <Size>3352</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\fthsvc.adml</Path>
           <Url>1.0\ru-RU\fthsvc.adml</Url>
-          <Hash>f41929a2c9d20bc7cde9185791ebacc3</Hash>
-          <Size>3086</Size>
+          <Hash>760989fdb99d8aa8101544af2b6dd3a2</Hash>
+          <Size>3061</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\GameDVR.adml</Path>
           <Url>1.0\ru-RU\GameDVR.adml</Url>
-          <Hash>47eb9712d0065a9cdf812842b0f67bac</Hash>
-          <Size>1516</Size>
+          <Hash>824dff5aab3206a218b08c22b05b447d</Hash>
+          <Size>1497</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\Globalization.adml</Path>
           <Url>1.0\ru-RU\Globalization.adml</Url>
-          <Hash>be12c75197f53fce297b4a697d240daa</Hash>
-          <Size>49143</Size>
+          <Hash>3923be22b5f5a15ac1b9b77fce64fd3d</Hash>
+          <Size>48817</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\GroupPolicy-Server.adml</Path>
           <Url>1.0\ru-RU\GroupPolicy-Server.adml</Url>
-          <Hash>23b1bd277a57b6096dd81b5c64ddf918</Hash>
-          <Size>2535</Size>
+          <Hash>45d4f8f34957791113103e9db741cf52</Hash>
+          <Size>2511</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\GroupPolicy.adml</Path>
           <Url>1.0\ru-RU\GroupPolicy.adml</Url>
-          <Hash>732e03b2e312e01ec2bc3c25f0cb350c</Hash>
-          <Size>132794</Size>
+          <Hash>eaa474ea26183ba35cdbc5e9feee4c56</Hash>
+          <Size>132116</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\GroupPolicyPreferences.adml</Path>
           <Url>1.0\ru-RU\GroupPolicyPreferences.adml</Url>
-          <Hash>10f566386bfccd4fc4b9244125b74002</Hash>
-          <Size>246971</Size>
+          <Hash>97ce206542f9515108f1a5e4b980df8a</Hash>
+          <Size>245611</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\Handwriting.adml</Path>
           <Url>1.0\ru-RU\Handwriting.adml</Url>
-          <Hash>df7fde2d47a9a7a704294981b66124b1</Hash>
-          <Size>1304</Size>
+          <Hash>be4b77ffff723bf97703bf257cbc400c</Hash>
+          <Size>1291</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\Help.adml</Path>
           <Url>1.0\ru-RU\Help.adml</Url>
-          <Hash>69dc96c70ce21bf311e3603118c107e5</Hash>
-          <Size>9957</Size>
+          <Hash>2ce3c4a5182b301edf0afb0953ca718b</Hash>
+          <Size>9882</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\HelpAndSupport.adml</Path>
           <Url>1.0\ru-RU\HelpAndSupport.adml</Url>
-          <Hash>244fe3c9d73c1287f31115eb18b9953f</Hash>
-          <Size>5512</Size>
+          <Hash>aa4f949c18a3e26902c0cf81a86949b7</Hash>
+          <Size>5474</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\hotspotauth.adml</Path>
           <Url>1.0\ru-RU\hotspotauth.adml</Url>
-          <Hash>f67e02fde069813703e15e503c5ac068</Hash>
-          <Size>2647</Size>
+          <Hash>bf9e2131458634d96b98883a18c9abf3</Hash>
+          <Size>2627</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\ICM.adml</Path>
           <Url>1.0\ru-RU\ICM.adml</Url>
-          <Hash>fd05cb25c8ceffcfbf714f2ce1880c76</Hash>
-          <Size>37213</Size>
+          <Hash>273ab961bfb8cc89763958ec94c030ff</Hash>
+          <Size>37017</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\IIS.adml</Path>
           <Url>1.0\ru-RU\IIS.adml</Url>
-          <Hash>6532883556b698294c78b4eedefd0f67</Hash>
-          <Size>1981</Size>
+          <Hash>0d221b0810d258bb988179c6c3625362</Hash>
+          <Size>1968</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\InetRes.adml</Path>
           <Url>1.0\ru-RU\InetRes.adml</Url>
-          <Hash>7cd06b336165f7601039885d30ecc3f2</Hash>
-          <Size>803581</Size>
+          <Hash>414d5e0a6a2c745bc15980742ec64845</Hash>
+          <Size>798784</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\InkWatson.adml</Path>
           <Url>1.0\ru-RU\InkWatson.adml</Url>
-          <Hash>17c03e997639f8763486a11adc1dae9c</Hash>
-          <Size>2437</Size>
+          <Hash>6c3c354da96a3c36fafac8e04a6f627d</Hash>
+          <Size>2417</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\iSCSI.adml</Path>
           <Url>1.0\ru-RU\iSCSI.adml</Url>
-          <Hash>4e78a7fc9575342c896955342d4f214c</Hash>
-          <Size>8094</Size>
+          <Hash>5da8ac1ce0f89d5cbd427e87ceec6680</Hash>
+          <Size>8057</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\KDC.adml</Path>
           <Url>1.0\ru-RU\KDC.adml</Url>
-          <Hash>f6abe20f1ff77182aecee7ef36468c09</Hash>
-          <Size>21786</Size>
+          <Hash>6424db4b06195121046e95039ca6b770</Hash>
+          <Size>21659</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\Kerberos.adml</Path>
           <Url>1.0\ru-RU\Kerberos.adml</Url>
-          <Hash>a9ab138143bf9ba01a02da5e05a83b98</Hash>
-          <Size>36047</Size>
+          <Hash>ec3cc95e2900afae67f670a525a9cd29</Hash>
+          <Size>35807</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\LanmanServer.adml</Path>
           <Url>1.0\ru-RU\LanmanServer.adml</Url>
-          <Hash>d229dffd878a43f9253603535421379a</Hash>
-          <Size>15283</Size>
+          <Hash>71de6c7f5c94893534a46913bc16099e</Hash>
+          <Size>15161</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\LanmanWorkstation.adml</Path>
           <Url>1.0\ru-RU\LanmanWorkstation.adml</Url>
-          <Hash>5d4f8696d55e933fe8528a6dc9d443d2</Hash>
-          <Size>9592</Size>
+          <Hash>fdcb52fd3cb546904f6a549a7dd9f176</Hash>
+          <Size>9523</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\LeakDiagnostic.adml</Path>
           <Url>1.0\ru-RU\LeakDiagnostic.adml</Url>
-          <Hash>ac401a7095d4772b82e8d62a1dced4da</Hash>
-          <Size>2378</Size>
+          <Hash>981ee9b238f46039c439b44759a645db</Hash>
+          <Size>2353</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\LinkLayerTopologyDiscovery.adml</Path>
           <Url>1.0\ru-RU\LinkLayerTopologyDiscovery.adml</Url>
-          <Hash>47b08b70b147271e358a0313128f0aa2</Hash>
-          <Size>5580</Size>
+          <Hash>5dd79d0a3e5e4419ff043640cba41cc0</Hash>
+          <Size>5540</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\LocationProviderAdm.adml</Path>
           <Url>1.0\ru-RU\LocationProviderAdm.adml</Url>
-          <Hash>7294b836e191b422c13c63dcc151ed52</Hash>
-          <Size>1631</Size>
+          <Hash>1ff741d46d846de96c4e0e022242e2d4</Hash>
+          <Size>1613</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\Logon.adml</Path>
           <Url>1.0\ru-RU\Logon.adml</Url>
-          <Hash>02d963feb10195cad5e60b5f20cc9eda</Hash>
-          <Size>31538</Size>
+          <Hash>8bad1c31a3278d97d1bb827413c3b77a</Hash>
+          <Size>31357</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\MDM.adml</Path>
           <Url>1.0\ru-RU\MDM.adml</Url>
-          <Hash>f92add3f1a957d67ed42132b4b7f80f6</Hash>
-          <Size>3827</Size>
+          <Hash>f270cf00288ba3f397612e527e855796</Hash>
+          <Size>3788</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\Messaging.adml</Path>
           <Url>1.0\ru-RU\Messaging.adml</Url>
-          <Hash>1b525ab5e57606e89c8b54ba8e369037</Hash>
-          <Size>1154</Size>
+          <Hash>3043786359d6c1bab7ffbc23cf2846f8</Hash>
+          <Size>1141</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\MicrosoftEdge.adml</Path>
           <Url>1.0\ru-RU\MicrosoftEdge.adml</Url>
-          <Hash>41895804dc75c1fd4eb5fe31e049c553</Hash>
-          <Size>96639</Size>
+          <Hash>2008c0882636fa50d70ecdf2217ea9a5</Hash>
+          <Size>96023</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\MMC.adml</Path>
           <Url>1.0\ru-RU\MMC.adml</Url>
-          <Hash>0cebcecbea4130d4426b8e3bfe1eeb94</Hash>
-          <Size>8785</Size>
+          <Hash>9695fdffdf317cc2b55e4e70051ca8f7</Hash>
+          <Size>8730</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\MMCSnapins.adml</Path>
           <Url>1.0\ru-RU\MMCSnapins.adml</Url>
-          <Hash>a24b8f9b5e3041351a3314872335d11b</Hash>
-          <Size>15364</Size>
+          <Hash>e2801c39f43d67fbdbdaf71fd8cf32da</Hash>
+          <Size>15233</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\MMCSnapIns2.adml</Path>
           <Url>1.0\ru-RU\MMCSnapIns2.adml</Url>
-          <Hash>9f84bec148193d1d385f5a62431e89c1</Hash>
-          <Size>5270</Size>
+          <Hash>6fb719b437ef4adf141a02bccc8f5846</Hash>
+          <Size>5235</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\MobilePCMobilityCenter.adml</Path>
           <Url>1.0\ru-RU\MobilePCMobilityCenter.adml</Url>
-          <Hash>434c3fd8a911f158f9985b338e7ab56c</Hash>
-          <Size>1668</Size>
+          <Hash>7e6587065985a65d698c0b7f0936819b</Hash>
+          <Size>1649</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\MobilePCPresentationSettings.adml</Path>
           <Url>1.0\ru-RU\MobilePCPresentationSettings.adml</Url>
-          <Hash>25c07c0c5ef53445057d9147c9b8f8ae</Hash>
-          <Size>2116</Size>
+          <Hash>2693ca328f5173b907846c19a75b3d59</Hash>
+          <Size>2095</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\MSAPolicy.adml</Path>
           <Url>1.0\ru-RU\MSAPolicy.adml</Url>
-          <Hash>57166da0ad60859037cba94853253c77</Hash>
-          <Size>3159</Size>
+          <Hash>ece9f981687f449415f98380e95424df</Hash>
+          <Size>3142</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\msched.adml</Path>
           <Url>1.0\ru-RU\msched.adml</Url>
-          <Hash>05081ff7e486087323a1df3f432bc387</Hash>
-          <Size>6094</Size>
+          <Hash>cb74df044527cae31972e704ee917a96</Hash>
+          <Size>6035</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\MSDT.adml</Path>
           <Url>1.0\ru-RU\MSDT.adml</Url>
-          <Hash>60e6becd124c8b0f8508b5024aa8fca9</Hash>
-          <Size>15359</Size>
+          <Hash>20705ea78f49293f6542a5a9956da045</Hash>
+          <Size>15259</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\Msi-FileRecovery.adml</Path>
           <Url>1.0\ru-RU\Msi-FileRecovery.adml</Url>
-          <Hash>3651d65549f125a207e5dc69f74ea471</Hash>
-          <Size>5359</Size>
+          <Hash>572601450f391b3757ac97c7ecf78dde</Hash>
+          <Size>5322</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\MSI.adml</Path>
           <Url>1.0\ru-RU\MSI.adml</Url>
-          <Hash>314ba1d31eb645473503ff8e10674586</Hash>
-          <Size>56902</Size>
+          <Hash>c51646a9734b0c153744f5f22944f1fc</Hash>
+          <Size>56569</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\nca.adml</Path>
           <Url>1.0\ru-RU\nca.adml</Url>
-          <Hash>7deab9fb03be6a7702045ae4b98a432f</Hash>
-          <Size>13004</Size>
+          <Hash>53d964f057c9d91ae69ffa30bf39a606</Hash>
+          <Size>12872</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\NCSI.adml</Path>
           <Url>1.0\ru-RU\NCSI.adml</Url>
-          <Hash>8635514b48da06b17320986dca5a548e</Hash>
-          <Size>9778</Size>
+          <Hash>1bbedf17694d14fddd81305d026e4ebc</Hash>
+          <Size>9694</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\Netlogon.adml</Path>
           <Url>1.0\ru-RU\Netlogon.adml</Url>
-          <Hash>b9f1849a9f0ce65bda71463b76593119</Hash>
-          <Size>83967</Size>
+          <Hash>b11262df83fa065371a3457161924868</Hash>
+          <Size>83547</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\NetworkConnections.adml</Path>
           <Url>1.0\ru-RU\NetworkConnections.adml</Url>
-          <Hash>3c58e99703706bdb9aac1eb08b6e4de4</Hash>
-          <Size>78388</Size>
+          <Hash>1488df331783da87968f5477035f70cc</Hash>
+          <Size>78005</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\NetworkIsolation.adml</Path>
           <Url>1.0\ru-RU\NetworkIsolation.adml</Url>
-          <Hash>93cc56ddfd79ac108c68f85e2a41811a</Hash>
-          <Size>13856</Size>
+          <Hash>58e451fd593971219a77285b8fc7a7b9</Hash>
+          <Size>13699</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\NetworkProvider.adml</Path>
           <Url>1.0\ru-RU\NetworkProvider.adml</Url>
-          <Hash>8c9720eaba85d2ab444ad9db38a0aea7</Hash>
-          <Size>4668</Size>
+          <Hash>e8d7c0f6c9c34529f38e1de242b3adf3</Hash>
+          <Size>4632</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\OfflineFiles.adml</Path>
           <Url>1.0\ru-RU\OfflineFiles.adml</Url>
-          <Hash>3a2790729ee806701c85dd3974db25fa</Hash>
-          <Size>92370</Size>
+          <Hash>0288f92bd96687b655ce79481384c3d0</Hash>
+          <Size>91803</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\OOBE.adml</Path>
           <Url>1.0\ru-RU\OOBE.adml</Url>
-          <Hash>b531697af0f3fa72002ccfebf6175a52</Hash>
-          <Size>2901</Size>
+          <Hash>57bb980dd8ae8289616216d450dbd600</Hash>
+          <Size>2882</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\OSPolicy.adml</Path>
           <Url>1.0\ru-RU\OSPolicy.adml</Url>
-          <Hash>670209e79183a9c8148674afabbc03ea</Hash>
-          <Size>5601</Size>
+          <Hash>2598c87186dc2c82ec4dd222e9606b57</Hash>
+          <Size>5554</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\P2P-pnrp.adml</Path>
           <Url>1.0\ru-RU\P2P-pnrp.adml</Url>
-          <Hash>14bfcef5e5493a4f5500429924c428b9</Hash>
-          <Size>28327</Size>
+          <Hash>b76a4961d305d8f7431218cdc0923903</Hash>
+          <Size>28155</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\Passport.adml</Path>
           <Url>1.0\ru-RU\Passport.adml</Url>
-          <Hash>5e39304f6b91e54abca3288687c8a56a</Hash>
-          <Size>33020</Size>
+          <Hash>1855fa18af146d2fc4591906d90cffd9</Hash>
+          <Size>32791</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\pca.adml</Path>
           <Url>1.0\ru-RU\pca.adml</Url>
-          <Hash>362148ed8240ec1d9765b6665e583d94</Hash>
-          <Size>10059</Size>
+          <Hash>cd698392161fcc39408a58116bb1753c</Hash>
+          <Size>9994</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\PeerToPeerCaching.adml</Path>
           <Url>1.0\ru-RU\PeerToPeerCaching.adml</Url>
-          <Hash>1ba70e053badde1f1f78892b908c7102</Hash>
-          <Size>43987</Size>
+          <Hash>6f2e9e4a84fbc4c9889d9f6100e40c4e</Hash>
+          <Size>43695</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\PenTraining.adml</Path>
           <Url>1.0\ru-RU\PenTraining.adml</Url>
-          <Hash>3f583bbac86469ac50afb6725a67eb7b</Hash>
-          <Size>2148</Size>
+          <Hash>da615df5b3bd0c334e022bf60037a6dd</Hash>
+          <Size>2126</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\PerformanceDiagnostics.adml</Path>
           <Url>1.0\ru-RU\PerformanceDiagnostics.adml</Url>
-          <Hash>16248c387d4250dcbea58b236a88e9b0</Hash>
-          <Size>15578</Size>
+          <Hash>bfa59a8dc5a5c7612f1feb9d88299dce</Hash>
+          <Size>15495</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\PerformancePerftrack.adml</Path>
           <Url>1.0\ru-RU\PerformancePerftrack.adml</Url>
-          <Hash>a35b7de96f68872d3667b2cf29b7d230</Hash>
-          <Size>1420</Size>
+          <Hash>96b3015ffd3ce05d8ac6597ae97900ad</Hash>
+          <Size>1402</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\Power.adml</Path>
           <Url>1.0\ru-RU\Power.adml</Url>
-          <Hash>6758fda7ca246d2645c803b90c0786b3</Hash>
-          <Size>53186</Size>
+          <Hash>acb9628ee54c085965dc3d10572aa616</Hash>
+          <Size>52732</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\PowerShellExecutionPolicy.adml</Path>
           <Url>1.0\ru-RU\PowerShellExecutionPolicy.adml</Url>
-          <Hash>8ec88ab9b32e5867a1ed19b07b8d7896</Hash>
-          <Size>14078</Size>
+          <Hash>dff50a19bf3c4d4d3acf7263c6d5ec22</Hash>
+          <Size>13967</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\PreviousVersions.adml</Path>
           <Url>1.0\ru-RU\PreviousVersions.adml</Url>
-          <Hash>8b8ceef4d3120b4aeede1dba8856d19e</Hash>
-          <Size>9616</Size>
+          <Hash>e691cbbf6fb144518989415ca35e7c2a</Hash>
+          <Size>9556</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\Printing.adml</Path>
           <Url>1.0\ru-RU\Printing.adml</Url>
-          <Hash>441e09f812369f49b563fa2bd28f10ce</Hash>
-          <Size>61706</Size>
+          <Hash>6e5eb97bd9b4268b2072357af4528f11</Hash>
+          <Size>61350</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\Printing2.adml</Path>
           <Url>1.0\ru-RU\Printing2.adml</Url>
-          <Hash>7b28cd3dff4413dbd79146c6106adcb3</Hash>
-          <Size>23330</Size>
+          <Hash>1948c9b487b78bd4bc9a03c0421d58f6</Hash>
+          <Size>23149</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\Programs.adml</Path>
           <Url>1.0\ru-RU\Programs.adml</Url>
-          <Hash>148371b12d3c669ab19ec73ef24c40a8</Hash>
-          <Size>12919</Size>
+          <Hash>a25f51c208117181d898e816833822f5</Hash>
+          <Size>12832</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\PushToInstall.adml</Path>
           <Url>1.0\ru-RU\PushToInstall.adml</Url>
-          <Hash>fa44f5a8a13ccffe01de246b46de46ae</Hash>
-          <Size>1109</Size>
+          <Hash>350306f8db545e1596931f5154d827a9</Hash>
+          <Size>1097</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\QOS.adml</Path>
           <Url>1.0\ru-RU\QOS.adml</Url>
-          <Hash>1099a912a66a0fbeb2542e3c3d5181b7</Hash>
-          <Size>33153</Size>
+          <Hash>0397c34da752b4ea457db83b236dc7e8</Hash>
+          <Size>32857</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\RacWmiProv.adml</Path>
           <Url>1.0\ru-RU\RacWmiProv.adml</Url>
-          <Hash>2cb5cf8354341fb3c42b2cf54cb68025</Hash>
-          <Size>2103</Size>
+          <Hash>65254a15f2425f7f911d94dd5351b3f5</Hash>
+          <Size>2086</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\Radar.adml</Path>
           <Url>1.0\ru-RU\Radar.adml</Url>
-          <Hash>e0ca9cefba423a330d76daef8fee4765</Hash>
-          <Size>3945</Size>
+          <Hash>9b515ff12e66c3a59a00f98db30a9656</Hash>
+          <Size>3913</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\ReAgent.adml</Path>
           <Url>1.0\ru-RU\ReAgent.adml</Url>
-          <Hash>5132452ccede634becc7a548a414c9fd</Hash>
-          <Size>3348</Size>
+          <Hash>6bdd826bfc969a9d822b57ccd7dad85c</Hash>
+          <Size>3330</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\Reliability.adml</Path>
           <Url>1.0\ru-RU\Reliability.adml</Url>
-          <Hash>7bf1de31a4cbfaa3c19d915161631792</Hash>
-          <Size>9761</Size>
+          <Hash>272263aa8438e7d36a941a4488fd73a7</Hash>
+          <Size>9691</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\RemoteAssistance.adml</Path>
           <Url>1.0\ru-RU\RemoteAssistance.adml</Url>
-          <Hash>520618ebfa2aca22bc3527922ebb21b0</Hash>
-          <Size>18115</Size>
+          <Hash>2e7f8546dc27d50b0a04e8f477274973</Hash>
+          <Size>17962</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\RemovableStorage.adml</Path>
           <Url>1.0\ru-RU\RemovableStorage.adml</Url>
-          <Hash>bc286cbcd4f2b845801f1254307a1feb</Hash>
-          <Size>21788</Size>
+          <Hash>1c34cc0dacd2e34662fa15948039e31b</Hash>
+          <Size>21606</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\RPC.adml</Path>
           <Url>1.0\ru-RU\RPC.adml</Url>
-          <Hash>1fc2f28ee5cd91c86658ffe2be6a7de5</Hash>
-          <Size>25160</Size>
+          <Hash>ef4d4a2e88b620eaef5421d52fc91b4c</Hash>
+          <Size>25007</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\Scripts.adml</Path>
           <Url>1.0\ru-RU\Scripts.adml</Url>
-          <Hash>45e98cd5a9d9f9375dbd0eb4791f1e9f</Hash>
-          <Size>24348</Size>
+          <Hash>448d12edef560d3669f939077e1afa01</Hash>
+          <Size>24185</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\sdiageng.adml</Path>
           <Url>1.0\ru-RU\sdiageng.adml</Url>
-          <Hash>37a2fc8c1b619cc8c8f6f133e65336a3</Hash>
-          <Size>5958</Size>
+          <Hash>8df10569ba87ffe4160baa6171b1ef02</Hash>
+          <Size>5920</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\sdiagschd.adml</Path>
           <Url>1.0\ru-RU\sdiagschd.adml</Url>
-          <Hash>925639a0736ad569f08d0351f14f3fe0</Hash>
-          <Size>4056</Size>
+          <Hash>be48b7fb7de3f314dffce4725889aa44</Hash>
+          <Size>4024</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\Search.adml</Path>
           <Url>1.0\ru-RU\Search.adml</Url>
-          <Hash>e94b1b3a128b643bfa028c7efffeb455</Hash>
-          <Size>68943</Size>
+          <Hash>e5b54f8be3e15a7f478ebec27c826d27</Hash>
+          <Size>68555</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\Securitycenter.adml</Path>
           <Url>1.0\ru-RU\Securitycenter.adml</Url>
-          <Hash>abc0ae454e4dcb1639214446ae7bc075</Hash>
-          <Size>4539</Size>
+          <Hash>6506a4439b0ba453c2fbd7591aa0a32c</Hash>
+          <Size>4509</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\Sensors.adml</Path>
           <Url>1.0\ru-RU\Sensors.adml</Url>
-          <Hash>11fcae32c99feaa771fc1bc5c3b0c3b0</Hash>
-          <Size>3420</Size>
+          <Hash>ccacdda1618c4f0d12f170ee99bd6d64</Hash>
+          <Size>3379</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\ServerManager.adml</Path>
           <Url>1.0\ru-RU\ServerManager.adml</Url>
-          <Hash>8a30664cd28483c9c89429ab1d783314</Hash>
-          <Size>7932</Size>
+          <Hash>647818d6efad8f251219b3065fd72fa5</Hash>
+          <Size>7874</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\ServiceControlManager.adml</Path>
           <Url>1.0\ru-RU\ServiceControlManager.adml</Url>
-          <Hash>35e82fde2375c380c7ca0261ccf80e23</Hash>
-          <Size>2016</Size>
+          <Hash>d9016c4c7f9597bd7e4b69f13a7ee6be</Hash>
+          <Size>1996</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\Servicing.adml</Path>
           <Url>1.0\ru-RU\Servicing.adml</Url>
-          <Hash>1b1f02a44c060b1a5086f491708b6b30</Hash>
-          <Size>3712</Size>
+          <Hash>d912dcc8d2c650452dbfacf4f3508cd3</Hash>
+          <Size>3681</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\SettingSync.adml</Path>
           <Url>1.0\ru-RU\SettingSync.adml</Url>
-          <Hash>7c9e496103674908155fc476fe2a10a8</Hash>
-          <Size>17544</Size>
+          <Hash>f458496957abb281f662642d3fd5bda1</Hash>
+          <Size>17372</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\Setup.adml</Path>
           <Url>1.0\ru-RU\Setup.adml</Url>
-          <Hash>ae7ccc27898f33ecd25b58ea51931c69</Hash>
-          <Size>2981</Size>
+          <Hash>6fda6950b4f5f351f1fd3951e1d84ef3</Hash>
+          <Size>2939</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\ShapeCollector.adml</Path>
           <Url>1.0\ru-RU\ShapeCollector.adml</Url>
-          <Hash>9276eefcd61c5fc85a8f788d9bd4fa67</Hash>
-          <Size>2654</Size>
+          <Hash>1544b0bfdcd2288826ce0016d572db31</Hash>
+          <Size>2634</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\SharedFolders.adml</Path>
           <Url>1.0\ru-RU\SharedFolders.adml</Url>
-          <Hash>b07ca214b315f5949baec29ff66df66e</Hash>
-          <Size>2809</Size>
+          <Hash>ee8f32068df57540a71264ef90ee2e35</Hash>
+          <Size>2787</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\Sharing.adml</Path>
           <Url>1.0\ru-RU\Sharing.adml</Url>
-          <Hash>e839cb2913746cef1549ba77efbd8f11</Hash>
-          <Size>4506</Size>
+          <Hash>ceeabad39e87663b0925cd3c3f2da211</Hash>
+          <Size>4476</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\Shell-CommandPrompt-RegEditTools.adml</Path>
           <Url>1.0\ru-RU\Shell-CommandPrompt-RegEditTools.adml</Url>
-          <Hash>65c97224f2831ae9743db0208e0f6d4d</Hash>
-          <Size>9083</Size>
+          <Hash>71a9a340e0991413e38611d6804a8236</Hash>
+          <Size>9016</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\ShellWelcomeCenter.adml</Path>
           <Url>1.0\ru-RU\ShellWelcomeCenter.adml</Url>
-          <Hash>06cfd4b1d8a0bfa416bd65dea96b8b8c</Hash>
-          <Size>1572</Size>
+          <Hash>e208b9419da79a2eb7481076f9a48f8a</Hash>
+          <Size>1556</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\Sidebar.adml</Path>
           <Url>1.0\ru-RU\Sidebar.adml</Url>
-          <Hash>7135fce227fa7a4bc3bc1961ce07a5b5</Hash>
-          <Size>3446</Size>
+          <Hash>e872b65b2a530dd12e1e375ee8e431c7</Hash>
+          <Size>3413</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\SkyDrive.adml</Path>
           <Url>1.0\ru-RU\SkyDrive.adml</Url>
-          <Hash>939d0f3f15d2800159632a33d609cb62</Hash>
-          <Size>8309</Size>
+          <Hash>2bd5900cdae48753b29e934c7e5b76c6</Hash>
+          <Size>8247</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\Smartcard.adml</Path>
           <Url>1.0\ru-RU\Smartcard.adml</Url>
-          <Hash>aca6a53c319e633a2d00110cf6c0bd8a</Hash>
-          <Size>23259</Size>
+          <Hash>48992fd8173129930b6d8702f65f7084</Hash>
+          <Size>23115</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\SmartScreen.adml</Path>
           <Url>1.0\ru-RU\SmartScreen.adml</Url>
-          <Hash>c18fdc014167bd99f8dc22c0d900c5f4</Hash>
-          <Size>9745</Size>
+          <Hash>72ffcfa6ec8ab1c19a48e3451993ba98</Hash>
+          <Size>9667</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\Snmp.adml</Path>
           <Url>1.0\ru-RU\Snmp.adml</Url>
-          <Hash>b1b6b29b6fcc19d73af5e374d74b85a5</Hash>
-          <Size>8111</Size>
+          <Hash>9f3a6bfcc344f8d3a9ad22ffd16062cc</Hash>
+          <Size>8041</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\SoundRec.adml</Path>
           <Url>1.0\ru-RU\SoundRec.adml</Url>
-          <Hash>ca5880fb5ef256b884fb895a6fdf6517</Hash>
-          <Size>1602</Size>
+          <Hash>cf29edb9acdcc238953614454f3e4aae</Hash>
+          <Size>1583</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\Speech.adml</Path>
           <Url>1.0\ru-RU\Speech.adml</Url>
-          <Hash>6a7d679fcc737c17d7d7d7858ddf7ba6</Hash>
-          <Size>1843</Size>
+          <Hash>c6b7135002fa67392de4a829008d57d2</Hash>
+          <Size>1826</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\srm-fci.adml</Path>
           <Url>1.0\ru-RU\srm-fci.adml</Url>
-          <Hash>5319730c08d50bdc74464971c6d342ae</Hash>
-          <Size>12983</Size>
+          <Hash>cb3d404bb8b00f4236143adea509db89</Hash>
+          <Size>12888</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\StartMenu.adml</Path>
           <Url>1.0\ru-RU\StartMenu.adml</Url>
-          <Hash>2c5e9d08ebf07cab498586c2dddab5d5</Hash>
-          <Size>109185</Size>
+          <Hash>0daf3c80e502a5c89be99dcb7c9ecf76</Hash>
+          <Size>108543</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\StorageHealth.adml</Path>
           <Url>1.0\ru-RU\StorageHealth.adml</Url>
-          <Hash>b7bb17f887dd042d6f9893f2a829ce1a</Hash>
-          <Size>1517</Size>
+          <Hash>385b68680156b908010e1fe44103d9a2</Hash>
+          <Size>1495</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\StorageSense.adml</Path>
           <Url>1.0\ru-RU\StorageSense.adml</Url>
-          <Hash>92fef479a5d31bf89795905752cb4d6b</Hash>
-          <Size>13217</Size>
+          <Hash>8aaad66adeab4aa2b2e90da87f059d66</Hash>
+          <Size>13111</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\SystemRestore.adml</Path>
           <Url>1.0\ru-RU\SystemRestore.adml</Url>
-          <Hash>76212e8155426901c50c21768e9b9896</Hash>
-          <Size>4818</Size>
+          <Hash>757a6fc74a4e57a08a5c94bf292dbd2d</Hash>
+          <Size>4783</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\TabletPCInputPanel.adml</Path>
           <Url>1.0\ru-RU\TabletPCInputPanel.adml</Url>
-          <Hash>285ee2f423dae6d6b65e1cb579e008b8</Hash>
-          <Size>28107</Size>
+          <Hash>9ba73ba6ea356c6f904fbab04ce7a095</Hash>
+          <Size>27968</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\TabletShell.adml</Path>
           <Url>1.0\ru-RU\TabletShell.adml</Url>
-          <Hash>9473106a7f1a90687ff3cca8a8f04b1f</Hash>
-          <Size>11781</Size>
+          <Hash>20b3fcbfa03ca94b009e9fa638136178</Hash>
+          <Size>11684</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\Taskbar.adml</Path>
           <Url>1.0\ru-RU\Taskbar.adml</Url>
-          <Hash>da50e5506e1fb3a054e6b272dc887bea</Hash>
-          <Size>24800</Size>
+          <Hash>a835fe11c8e199fbe6ee2ddea8064c76</Hash>
+          <Size>24629</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\TaskScheduler.adml</Path>
           <Url>1.0\ru-RU\TaskScheduler.adml</Url>
-          <Hash>7fb2e22e37d4ee27f572f96a015a5f04</Hash>
-          <Size>13700</Size>
+          <Hash>91336b3d61826d3da9cdd584ae3db715</Hash>
+          <Size>13631</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\tcpip.adml</Path>
           <Url>1.0\ru-RU\tcpip.adml</Url>
-          <Hash>d019c757e34d4b81e1264ebb8f63daa9</Hash>
-          <Size>23458</Size>
+          <Hash>561acfc7d7dee694c22a71d6c41dca86</Hash>
+          <Size>23217</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\TerminalServer-Server.adml</Path>
           <Url>1.0\ru-RU\TerminalServer-Server.adml</Url>
-          <Hash>6299cb9b2c4e302b94b669e0f117ff21</Hash>
-          <Size>34565</Size>
+          <Hash>0fa9ce510703b61de70f8478cb7c48eb</Hash>
+          <Size>34338</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\TerminalServer.adml</Path>
           <Url>1.0\ru-RU\TerminalServer.adml</Url>
-          <Hash>404c25d1095972a755bedb41db2f34d5</Hash>
-          <Size>260906</Size>
+          <Hash>614f0847cbf9b0b79286f442df20273b</Hash>
+          <Size>259514</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\TextInput.adml</Path>
           <Url>1.0\ru-RU\TextInput.adml</Url>
-          <Hash>52da785d2e79f99ff8b4e4b2ec76d5e3</Hash>
-          <Size>1831</Size>
+          <Hash>1e479c3e8fab5a099c1a2d1f7dbd4638</Hash>
+          <Size>1817</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\Thumbnails.adml</Path>
           <Url>1.0\ru-RU\Thumbnails.adml</Url>
-          <Hash>2c37dae1d45d2df7e87f4cec6bebbd7a</Hash>
-          <Size>3630</Size>
+          <Hash>490c16a0538e8111f4857817db150e7a</Hash>
+          <Size>3594</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\TouchInput.adml</Path>
           <Url>1.0\ru-RU\TouchInput.adml</Url>
-          <Hash>b296a12f1d29213f6833a835db359d94</Hash>
-          <Size>3596</Size>
+          <Hash>8b8811ddabf7dad2d9f3fd9d197c6fa3</Hash>
+          <Size>3562</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\TPM.adml</Path>
           <Url>1.0\ru-RU\TPM.adml</Url>
-          <Hash>cb59652e081d6250b4bcdceaeb057775</Hash>
-          <Size>44106</Size>
+          <Hash>73c1eb1fbb67e36c9716809fb11fdef1</Hash>
+          <Size>43964</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\UserExperienceVirtualization.adml</Path>
           <Url>1.0\ru-RU\UserExperienceVirtualization.adml</Url>
-          <Hash>d32be371f9247e80fdb7846981fd61cc</Hash>
-          <Size>201718</Size>
+          <Hash>2fa9233a48d1b8cded5da28a6ecd1b79</Hash>
+          <Size>200643</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\UserProfiles.adml</Path>
           <Url>1.0\ru-RU\UserProfiles.adml</Url>
-          <Hash>59c837c5548f638260287626ee2ec3dc</Hash>
-          <Size>82061</Size>
+          <Hash>2355501e32c2a4c2dce666b5d47844d3</Hash>
+          <Size>81625</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\VolumeEncryption.adml</Path>
           <Url>1.0\ru-RU\VolumeEncryption.adml</Url>
-          <Hash>32c1a164ed9c338dd7904d182e5a4415</Hash>
-          <Size>187602</Size>
+          <Hash>36378f671ef9cba518aea067c0547299</Hash>
+          <Size>186517</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\W32Time.adml</Path>
           <Url>1.0\ru-RU\W32Time.adml</Url>
-          <Hash>7ca26aea7b0bb15bdd3a3dfcb6f2ad67</Hash>
-          <Size>25912</Size>
+          <Hash>53e0b6518006c649806ccce391e5ab29</Hash>
+          <Size>25721</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\WCM.adml</Path>
           <Url>1.0\ru-RU\WCM.adml</Url>
-          <Hash>f827f2ca3289812ace9353a7da65bef6</Hash>
-          <Size>14064</Size>
+          <Hash>48812309f32a8dd3414e644fcaf84181</Hash>
+          <Size>13987</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\WDI.adml</Path>
           <Url>1.0\ru-RU\WDI.adml</Url>
-          <Hash>7df81f5b2e8630008be00c59f24abc7c</Hash>
-          <Size>5820</Size>
+          <Hash>9ec38eeeadd76fa89e128904c71ccf50</Hash>
+          <Size>5777</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\WinCal.adml</Path>
           <Url>1.0\ru-RU\WinCal.adml</Url>
-          <Hash>54a5109ef609dbba1f29468cfd73e1c3</Hash>
-          <Size>1399</Size>
+          <Hash>fe0016ee73346446e4ec5588eef0576a</Hash>
+          <Size>1380</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\Windows.adml</Path>
           <Url>1.0\ru-RU\Windows.adml</Url>
-          <Hash>d674c8dec3902c28552d0e89db37d665</Hash>
-          <Size>13699</Size>
+          <Hash>e2f5844c59f1b6d0276435553b801cb1</Hash>
+          <Size>13597</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\WindowsAnytimeUpgrade.adml</Path>
           <Url>1.0\ru-RU\WindowsAnytimeUpgrade.adml</Url>
-          <Hash>6d8db6516bb59717614a1a8f57cd2c9b</Hash>
-          <Size>1500</Size>
+          <Hash>f0e3a50c5ab057c9b029975694b6760f</Hash>
+          <Size>1482</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\WindowsBackup.adml</Path>
           <Url>1.0\ru-RU\WindowsBackup.adml</Url>
-          <Hash>b78bc4fbd811c287c1ee2dc9b990f261</Hash>
-          <Size>5324</Size>
+          <Hash>dc2fa8028a56f9112f8fa5b7d0fc56db</Hash>
+          <Size>5282</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\WindowsColorSystem.adml</Path>
           <Url>1.0\ru-RU\WindowsColorSystem.adml</Url>
-          <Hash>e78e584edf0d572f0cccf632a0765e84</Hash>
-          <Size>1988</Size>
+          <Hash>8f67c85ff087b6c17bcba513c636ba74</Hash>
+          <Size>1970</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\WindowsConnectNow.adml</Path>
           <Url>1.0\ru-RU\WindowsConnectNow.adml</Url>
-          <Hash>196467a7c17a756705b3fe26d745b0e7</Hash>
-          <Size>5519</Size>
+          <Hash>c97e3daa22afa086e1c6f971163d1cd2</Hash>
+          <Size>5478</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\WindowsDefender.adml</Path>
           <Url>1.0\ru-RU\WindowsDefender.adml</Url>
-          <Hash>24b05070ae099702c7b63c757ba21771</Hash>
-          <Size>164596</Size>
+          <Hash>09c45b690f55aefc09066aa21bb42608</Hash>
+          <Size>163458</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\WindowsDefenderSecurityCenter.adml</Path>
           <Url>1.0\ru-RU\WindowsDefenderSecurityCenter.adml</Url>
-          <Hash>1ba863b533ae41bd54a1cf218b4a6d38</Hash>
-          <Size>25067</Size>
+          <Hash>42994de68045fbc98076fff684a26762</Hash>
+          <Size>24720</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\WindowsExplorer.adml</Path>
           <Url>1.0\ru-RU\WindowsExplorer.adml</Url>
-          <Hash>540f9b13e5844689d3b3f0950ee8a86c</Hash>
-          <Size>105188</Size>
+          <Hash>7483571cec1a86238fab6cb516cd0a2c</Hash>
+          <Size>104546</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\WindowsFileProtection.adml</Path>
           <Url>1.0\ru-RU\WindowsFileProtection.adml</Url>
-          <Hash>734c495174ae860e2f58304f5fbe2a1d</Hash>
-          <Size>7071</Size>
+          <Hash>1afb381d5219250f0359beedeae9bf7f</Hash>
+          <Size>7009</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\WindowsFirewall.adml</Path>
           <Url>1.0\ru-RU\WindowsFirewall.adml</Url>
-          <Hash>f639142c93a8cfaba67f44080d4fd2c0</Hash>
-          <Size>76528</Size>
+          <Hash>0bbf64c51fce000ab928106997bebc4b</Hash>
+          <Size>76087</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\WindowsInkWorkspace.adml</Path>
           <Url>1.0\ru-RU\WindowsInkWorkspace.adml</Url>
-          <Hash>2ea6b9dd262f62c81294ce5b7454cf25</Hash>
-          <Size>1840</Size>
+          <Hash>e76d678aa03693c1ce948bef62602a95</Hash>
+          <Size>1816</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\WindowsMediaDRM.adml</Path>
           <Url>1.0\ru-RU\WindowsMediaDRM.adml</Url>
-          <Hash>6c86440e51306ff165b9d5aca35575a8</Hash>
-          <Size>2736</Size>
+          <Hash>7992e64d468f29b4a122fd3c79ef49b6</Hash>
+          <Size>2717</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\WindowsMediaPlayer.adml</Path>
           <Url>1.0\ru-RU\WindowsMediaPlayer.adml</Url>
-          <Hash>895a7fa31824add0f03698584aba2c4e</Hash>
-          <Size>40029</Size>
+          <Hash>3ce9ebf7a677750eb9732f786b75de5d</Hash>
+          <Size>39761</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\WindowsMessenger.adml</Path>
           <Url>1.0\ru-RU\WindowsMessenger.adml</Url>
-          <Hash>a9f90d619d7cb417eab54883799c95fa</Hash>
-          <Size>4084</Size>
+          <Hash>71c3590f5aad60611cbca843327068ff</Hash>
+          <Size>4047</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\WindowsProducts.adml</Path>
           <Url>1.0\ru-RU\WindowsProducts.adml</Url>
-          <Hash>9a5de5698be6d794867217cb628987ff</Hash>
-          <Size>7030</Size>
+          <Hash>744c8b558920ca6a2aeff1a9480e1136</Hash>
+          <Size>6921</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\WindowsRemoteManagement.adml</Path>
           <Url>1.0\ru-RU\WindowsRemoteManagement.adml</Url>
-          <Hash>40c569eb68fab36529f48403882dda44</Hash>
-          <Size>24756</Size>
+          <Hash>026bee26c3848ebf30530689f7672665</Hash>
+          <Size>24566</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\WindowsRemoteShell.adml</Path>
           <Url>1.0\ru-RU\WindowsRemoteShell.adml</Url>
-          <Hash>740bd34b7b0408a30f03a78e41dec7e1</Hash>
-          <Size>8670</Size>
+          <Hash>45dd2fcde4c4442ebf65cb18839eb545</Hash>
+          <Size>8584</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\WindowsServer.adml</Path>
           <Url>1.0\ru-RU\WindowsServer.adml</Url>
-          <Hash>f8c014bc3b46cfb978face80faa53e86</Hash>
-          <Size>1338</Size>
+          <Hash>9970506ae879850c79a0f1f2378127c1</Hash>
+          <Size>1323</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\WindowsStore.adml</Path>
           <Url>1.0\ru-RU\WindowsStore.adml</Url>
-          <Hash>f27a33651eb0ca0d2bd9143daf2618b0</Hash>
-          <Size>5985</Size>
+          <Hash>782b34c8d4c9931336d620ed88f3f66f</Hash>
+          <Size>5940</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\WindowsUpdate.adml</Path>
           <Url>1.0\ru-RU\WindowsUpdate.adml</Url>
-          <Hash>f5bd5732c50bf001ec53dd464fe5cb82</Hash>
-          <Size>111956</Size>
+          <Hash>4b79a23eb80b71d668764d49ae84eea0</Hash>
+          <Size>111172</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\WinInit.adml</Path>
           <Url>1.0\ru-RU\WinInit.adml</Url>
-          <Hash>9b63359065491c6855772f125f07ba01</Hash>
-          <Size>3824</Size>
+          <Hash>5a959a59052bc92d48f00d910abc1842</Hash>
+          <Size>3789</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\WinLogon.adml</Path>
           <Url>1.0\ru-RU\WinLogon.adml</Url>
-          <Hash>f8448d04343a0aa93d8be5127824f4d4</Hash>
-          <Size>20851</Size>
+          <Hash>6d2bd4e36d534ef286f7606c0dcad101</Hash>
+          <Size>20729</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\WinMaps.adml</Path>
           <Url>1.0\ru-RU\WinMaps.adml</Url>
-          <Hash>44f80f5bb4ed193a1291487bc8db53a9</Hash>
-          <Size>2946</Size>
+          <Hash>228013ccd4a447ac3e6a315466e766f0</Hash>
+          <Size>2921</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\Winsrv.adml</Path>
           <Url>1.0\ru-RU\Winsrv.adml</Url>
-          <Hash>7f94df2146f0b2fa117966f89a765ca7</Hash>
-          <Size>2529</Size>
+          <Hash>859c595a8f8a42e5fd6edf9536ee8754</Hash>
+          <Size>2512</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\WirelessDisplay.adml</Path>
           <Url>1.0\ru-RU\WirelessDisplay.adml</Url>
-          <Hash>261be5f7f9d46a49959fa97b9f0d2508</Hash>
-          <Size>3308</Size>
+          <Hash>fcddd0393b5d0f9ca3b2eed96e4c60e4</Hash>
+          <Size>3268</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\wlansvc.adml</Path>
           <Url>1.0\ru-RU\wlansvc.adml</Url>
-          <Hash>f09022810a00bf5dfe42ed0de6117c10</Hash>
-          <Size>8314</Size>
+          <Hash>20ec3e9392321be90b2e95f2a375a8f3</Hash>
+          <Size>8251</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\WordWheel.adml</Path>
           <Url>1.0\ru-RU\WordWheel.adml</Url>
-          <Hash>21c580e5f67e57a9154e71ac60d615b7</Hash>
-          <Size>3843</Size>
+          <Hash>d35afdb018eb72564e2be605086afe14</Hash>
+          <Size>3804</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\WorkFolders-Client.adml</Path>
           <Url>1.0\ru-RU\WorkFolders-Client.adml</Url>
-          <Hash>02925429d591629a9be6d7d472668ad3</Hash>
-          <Size>9720</Size>
+          <Hash>a2cfd3a5318ad2a70d9ad96bf275c657</Hash>
+          <Size>9664</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\WorkplaceJoin.adml</Path>
           <Url>1.0\ru-RU\WorkplaceJoin.adml</Url>
-          <Hash>71894c41f44f9e0912937b4142ec87d1</Hash>
-          <Size>1930</Size>
+          <Hash>a6e7386917a116371f2d61c5e303456b</Hash>
+          <Size>1910</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\WPN.adml</Path>
           <Url>1.0\ru-RU\WPN.adml</Url>
-          <Hash>b4f65e517ae6a699bfc2d187cd171834</Hash>
-          <Size>14393</Size>
+          <Hash>6e0875cbf122690ccad5e37a08baab7e</Hash>
+          <Size>14262</Size>
         </FileInfo>
         <FileInfo>
           <Path>\ru-RU\wwansvc.adml</Path>
           <Url>1.0\ru-RU\wwansvc.adml</Url>
-          <Hash>10a71aa5f931398e20fe75a5de1db994</Hash>
-          <Size>11304</Size>
+          <Hash>4d6033dd251b50f1228859deca1f7e15</Hash>
+          <Size>11213</Size>
         </FileInfo>
       </Files>
     </VersionInfo>
