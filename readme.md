@@ -2,6 +2,9 @@
 PoliticOFF - приложение для быстрого поиска политик.
 PoliticOFF-Port - портативное приложение, которое можно запустить на любом Windows.
 
+# Скачать
+[LauncherOFF](https://github.com/Camyil-89/LauncherOFF-Publish/tree/main) - Для скачивания PoliticOFF можно использовать LauncherOFF. Он за вас скачает все необходимые зависимости и файлы.
+
 ![image](https://github.com/Camyil-89/PoliticOFF-Publish/assets/76705837/e2f9eb97-cbb3-4270-b8ce-1905e567ab24)
 
 ## PoliticOFF-Port
