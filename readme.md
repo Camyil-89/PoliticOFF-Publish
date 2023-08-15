@@ -10,3 +10,6 @@ PoliticOFF-Port - портативное приложение, которое м
 ![image](https://github.com/Camyil-89/PoliticOFF-Publish/assets/76705837/b162224b-b1b2-436a-9bbc-4cd67ed08a06)
 
 ## PoliticOFF PowerShell
+В приложении доступно создания своих шаблонов PowerShell скриптов, которые можно импортировать в портивную версию
+
+![image](https://github.com/Camyil-89/PoliticOFF-Publish/assets/76705837/6da9c64d-349b-417c-83fe-012c3c94d55e)
